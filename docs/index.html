@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Handball Official Stats Dashboard</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23dc2626'/%3E%3Ctext x='50%25' y='54%25' text-anchor='middle' dominant-baseline='middle' fill='white' font-family='sans-serif' font-weight='800' font-size='28'%3EHB%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">HB</div>
+        <div class="brand-text">
+          <h1 id="tournamentTitle">Handball Tournament Analytics</h1>
+          <div class="brand-meta">
+            <span id="matchCountBadge" class="meta-pill">Loading...</span>
+            <span id="lastUpdatedLabel" class="meta-time"></span>
+          </div>
+        </div>
+      </div>
+      <div class="header-actions">
+        <span id="runtimeModeBadge" class="mode-badge" hidden></span>
+        <button id="refreshDriveBtn" class="btn-refresh" type="button" hidden>
+          <span class="refresh-icon" aria-hidden="true">↻</span>
+          <span class="refresh-label">Update from Drive</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <section class="global-filter-bar" aria-label="Global Filters">
+    <div class="filter-inner">
+      <div class="filter-group team-filter-group">
+        <label for="teamSelect" class="filter-label">Team</label>
+        <select id="teamSelect" class="team-select"></select>
+      </div>
+
+      <div class="filter-group match-filter-group">
+        <div class="match-filter-header">
+          <span class="filter-label">Matches <span id="selectedMatchCount" class="count-chip">0 / 0</span></span>
+          <div class="match-quick-actions">
+            <button id="selectAllMatchesBtn" type="button" class="btn-mini">All Matches</button>
+            <button id="clearMatchesBtn" type="button" class="btn-mini btn-mini-ghost">Clear</button>
+          </div>
+        </div>
+        <div id="matchChipsContainer" class="match-chips" role="group" aria-label="Match selection"></div>
+      </div>
+    </div>
+  </section>
+
+  <nav class="tab-nav" aria-label="Dashboard Sections">
+    <div class="tab-nav-inner" role="tablist">
+      <button class="tab-btn active" role="tab" aria-selected="true" data-tab="overview">Tournament Overview</button>
+      <button class="tab-btn" role="tab" aria-selected="false" data-tab="team">Team Analysis</button>
+      <button class="tab-btn" role="tab" aria-selected="false" data-tab="individual">Individual Stats</button>
+      <button class="tab-btn" role="tab" aria-selected="false" data-tab="status">
+        Data Status <span id="statusTabBadge" class="tab-status-dot"></span>
+      </button>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <div id="toastBanner" class="toast-banner" role="status" aria-live="polite" hidden></div>
+
+    <!-- TAB 1: TOURNAMENT OVERVIEW -->
+    <section id="tab-overview" class="tab-panel active" role="tabpanel">
+      <div class="card">
+        <div class="card-header">
+          <div>
+            <h2>Team Comparison Leaderboard</h2>
+            <p class="card-subtitle">All tournament teams aggregated across all loaded matches. Click any column to sort; click a team row to open Team Analysis.</p>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table id="overviewTable" class="stats-table sortable-table">
+            <thead>
+              <tr>
+                <th class="sticky-col" data-sort="team">Team</th>
+                <th data-sort="gp" class="num">GP</th>
+                <th data-sort="gf" class="num">GF</th>
+                <th data-sort="ga" class="num">GA</th>
+                <th data-sort="diff" class="num">Diff</th>
+                <th data-sort="shotPct" class="num">Shot %</th>
+                <th data-sort="oePct" class="num">OE %</th>
+                <th data-sort="savePct" class="num">Save %</th>
+                <th data-sort="pct9m" class="num">9m %</th>
+                <th data-sort="pct6m" class="num">6m %</th>
+                <th data-sort="pctWng" class="num">Wng %</th>
+                <th data-sort="fbG" class="num">FB G</th>
+                <th data-sort="tr" class="num">Tr</th>
+                <th data-sort="st" class="num">St</th>
+                <th data-sort="twoMin" class="num">2m</th>
+              </tr>
+            </thead>
+            <tbody id="overviewTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header card-header-wrap">
+          <div>
+            <h2>Country Comparison Bar Chart</h2>
+            <p class="card-subtitle">Compare all nations by selected performance metric. Highlighted bar indicates active Team Filter.</p>
+          </div>
+          <div class="control-inline">
+            <label for="overviewMetricSelect" class="inline-label">Metric</label>
+            <select id="overviewMetricSelect" class="metric-select">
+              <option value="shotPct">Shot %</option>
+              <option value="oePct">Offensive Efficiency (OE %)</option>
+              <option value="savePct">GK Save %</option>
+              <option value="gfPerGame">Goals For / Match</option>
+              <option value="gaPerGame">Goals Against / Match</option>
+              <option value="diffPerGame">Goal Diff / Match</option>
+              <option value="pct9m">9m Shot %</option>
+              <option value="pct6m">6m Shot %</option>
+              <option value="pctWng">Wing Shot %</option>
+              <option value="fbPerGame">Fastbreak Goals / Match</option>
+              <option value="trPerGame">Turnovers / Match</option>
+              <option value="stPerGame">Steals / Match</option>
+              <option value="twoMinPerGame">2-Min Susp. / Match</option>
+            </select>
+          </div>
+        </div>
+        <div class="chart-container chart-md">
+          <canvas id="overviewBarChart"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 2: TEAM ANALYSIS -->
+    <section id="tab-team" class="tab-panel" role="tabpanel">
+      <div id="teamEmptyState" class="empty-state card" hidden>
+        <h3>No Matches Selected</h3>
+        <p>Select one or more matches from the global filter bar above, or click <strong>All Matches</strong>.</p>
+      </div>
+
+      <div id="teamAnalysisContent">
+        <div class="context-banner">
+          <div class="context-title">
+            <h2 id="teamAnalysisHeading">Team Analysis</h2>
+            <span id="teamRecordBadge" class="record-pill"></span>
+          </div>
+          <div id="teamMatchesSubtitle" class="context-sub"></div>
+        </div>
+
+        <div id="teamKpiGrid" class="kpi-grid"></div>
+
+        <div class="two-col-grid">
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>Scoring by Area</h2>
+                <p class="card-subtitle">Goals &amp; Attempts by shooting zone (Shot % labeled above pairs)</p>
+              </div>
+            </div>
+            <div class="chart-container chart-sm">
+              <canvas id="teamScoringAreaChart"></canvas>
+            </div>
+            <div class="table-wrap compact-top">
+              <table class="stats-table compact-table">
+                <thead>
+                  <tr>
+                    <th class="sticky-col">Area</th>
+                    <th class="num">Goals</th>
+                    <th class="num">Attempts</th>
+                    <th class="num">Shot %</th>
+                    <th class="num">Shot Share %</th>
+                  </tr>
+                </thead>
+                <tbody id="teamScoringAreaBody"></tbody>
+              </table>
+            </div>
+            <div id="teamScoringAreaNote" class="table-footnote" hidden></div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>GK Saves by Area</h2>
+                <p class="card-subtitle">Saves &amp; Shots Faced by shooting zone (Save % labeled above pairs)</p>
+              </div>
+            </div>
+            <div class="chart-container chart-sm">
+              <canvas id="teamGkAreaChart"></canvas>
+            </div>
+            <div class="table-wrap compact-top">
+              <table class="stats-table compact-table">
+                <thead>
+                  <tr>
+                    <th class="sticky-col">Area</th>
+                    <th class="num">Saves</th>
+                    <th class="num">Shots</th>
+                    <th class="num">Save %</th>
+                    <th class="num">Shot Share %</th>
+                  </tr>
+                </thead>
+                <tbody id="teamGkAreaBody"></tbody>
+              </table>
+            </div>
+            <div id="teamGkAreaNote" class="table-footnote" hidden></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header card-header-wrap">
+            <div>
+              <h2>5-Minute Scoring Timeline</h2>
+              <p class="card-subtitle">Goals For vs Goals Against in 5-minute intervals (1st Half: 0-30', 2nd Half: 30-60')</p>
+            </div>
+            <div class="segmented-control" role="group" aria-label="Timeline aggregation mode">
+              <button id="timelineSumBtn" type="button" class="seg-btn active" data-mode="sum">Sum</button>
+              <button id="timelineAvgBtn" type="button" class="seg-btn" data-mode="avg">Average per Match</button>
+            </div>
+          </div>
+          <div id="timelineHalfSummary" class="half-summary-strip"></div>
+          <div class="chart-container chart-md">
+            <canvas id="teamTimelineChart"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 3: INDIVIDUAL STATS -->
+    <section id="tab-individual" class="tab-panel" role="tabpanel">
+      <div id="indivEmptyState" class="empty-state card" hidden>
+        <h3>No Matches Selected</h3>
+        <p>Select one or more matches from the global filter bar above to inspect player and goalkeeper statistics.</p>
+      </div>
+
+      <div id="indivContent">
+        <div class="card">
+          <div class="card-header">
+            <div>
+              <h2 id="playersTableTitle">Field Players</h2>
+              <p class="card-subtitle">Aggregated across selected matches. Click any column to sort; click a player row for area breakdown &amp; match log.</p>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table id="playersTable" class="stats-table sortable-table wide-table">
+              <thead>
+                <tr>
+                  <th class="sticky-col col-num" data-sort="jersey">#</th>
+                  <th class="sticky-col-2 col-player" data-sort="name">Player</th>
+                  <th data-sort="gp" class="num">GP</th>
+                  <th data-sort="totG" class="num">Tot G/A</th>
+                  <th data-sort="totPct" class="num">%</th>
+                  <th data-sort="oePct" class="num">OE %</th>
+                  <th data-sort="g9m" class="num">9m G/A</th>
+                  <th data-sort="p9m" class="num">9m %</th>
+                  <th data-sort="g6m" class="num">6m G/A</th>
+                  <th data-sort="p6m" class="num">6m %</th>
+                  <th data-sort="gWng" class="num">Wng G/A</th>
+                  <th data-sort="pWng" class="num">Wng %</th>
+                  <th data-sort="g7m" class="num">7m G/A</th>
+                  <th data-sort="p7m" class="num">7m %</th>
+                  <th data-sort="gFB" class="num">FB G/A</th>
+                  <th data-sort="pFB" class="num">FB %</th>
+                  <th data-sort="gBrk" class="num">Brk G/A</th>
+                  <th data-sort="pBrk" class="num">Brk %</th>
+                  <th data-sort="as" class="num">As</th>
+                  <th data-sort="e7" class="num">E7</th>
+                  <th data-sort="tr" class="num">Tr</th>
+                  <th data-sort="st" class="num">St</th>
+                  <th data-sort="twoMin" class="num">2m</th>
+                  <th data-sort="val" class="num">Val</th>
+                </tr>
+              </thead>
+              <tbody id="playersTableBody"></tbody>
+              <tfoot id="playersTableFoot"></tfoot>
+            </table>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <div>
+              <h2 id="gksTableTitle">Goalkeepers</h2>
+              <p class="card-subtitle">Aggregated across selected matches. Click any column to sort; click a goalkeeper row for save-rate breakdown &amp; match log.</p>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table id="gksTable" class="stats-table sortable-table wide-table">
+              <thead>
+                <tr>
+                  <th class="sticky-col col-num" data-sort="jersey">#</th>
+                  <th class="sticky-col-2 col-player" data-sort="name">Goalkeeper</th>
+                  <th data-sort="gp" class="num">GP</th>
+                  <th data-sort="totS" class="num">Tot S/Sh</th>
+                  <th data-sort="totPct" class="num">%</th>
+                  <th data-sort="s9m" class="num">9m S/Sh</th>
+                  <th data-sort="p9m" class="num">9m %</th>
+                  <th data-sort="s6m" class="num">6m S/Sh</th>
+                  <th data-sort="p6m" class="num">6m %</th>
+                  <th data-sort="sWng" class="num">Wng S/Sh</th>
+                  <th data-sort="pWng" class="num">Wng %</th>
+                  <th data-sort="s7m" class="num">7m S/Sh</th>
+                  <th data-sort="p7m" class="num">7m %</th>
+                  <th data-sort="sFB" class="num">FB S/Sh</th>
+                  <th data-sort="pFB" class="num">FB %</th>
+                  <th data-sort="sBrk" class="num">Brk S/Sh</th>
+                  <th data-sort="pBrk" class="num">Brk %</th>
+                  <th data-sort="val" class="num">Val</th>
+                </tr>
+              </thead>
+              <tbody id="gksTableBody"></tbody>
+              <tfoot id="gksTableFoot"></tfoot>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 4: DATA STATUS -->
+    <section id="tab-status" class="tab-panel" role="tabpanel">
+      <div id="statusSummaryGrid" class="kpi-grid kpi-grid-4"></div>
+
+      <div class="card">
+        <div class="card-header">
+          <div>
+            <h2>Imported Matches &amp; Automated Validation Matrix</h2>
+            <p class="card-subtitle">5 automated consistency checks executed on every Toma-soft PDF import.</p>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table class="stats-table">
+            <thead>
+              <tr>
+                <th class="sticky-col">Match ID</th>
+                <th>Date</th>
+                <th>Matchup</th>
+                <th class="num">Score (Halves)</th>
+                <th>1. Sum=Tot</th>
+                <th>2. 6-Area</th>
+                <th>3. Goals=Score</th>
+                <th>4. GK Cross</th>
+                <th>5. Timeline</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody id="statusTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <div>
+            <h2>Validation Details &amp; Audit Notes</h2>
+            <p class="card-subtitle">Full per-match verification details, PDF source notes (e.g., empty-net / uncategorized shots), and any parse warnings.</p>
+          </div>
+        </div>
+        <div id="statusDetailsList" class="status-details-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- DETAIL MODAL (PLAYER / GK) -->
+  <div id="detailModal" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div>
+          <h3 id="modalTitle">Player Detail</h3>
+          <p id="modalSubtitle" class="modal-subtitle"></p>
+        </div>
+        <button id="closeModalBtn" type="button" class="modal-close" aria-label="Close modal">✕</button>
+      </div>
+      <div class="modal-body">
+        <div id="modalKpiStrip" class="modal-kpi-strip"></div>
+        <div class="modal-section">
+          <h4 id="modalChartTitle">Area Breakdown</h4>
+          <div class="chart-container chart-sm">
+            <canvas id="modalBarChart"></canvas>
+          </div>
+        </div>
+        <div class="modal-section">
+          <h4>Match-by-Match Log</h4>
+          <div class="table-wrap">
+            <table class="stats-table compact-table">
+              <thead id="modalLogHead"></thead>
+              <tbody id="modalLogBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
