@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-24T15:26:49+05:00",
+  "generated_at": "2026-11-24T15:27:15+05:00",
   "tournament_name": "21st Asian Women's Handball Championship (2026)",
   "default_team": "Japan",
   "pdf_source": "26AC_Official-Stats",
   "summary": {
-    "total_pdfs": 5,
-    "parsed_matches": 5,
-    "ok_matches": 5,
+    "total_pdfs": 6,
+    "parsed_matches": 6,
+    "ok_matches": 6,
     "warning_matches": 0,
     "error_matches": 0,
     "teams": [
@@ -9354,6 +9354,1879 @@
           "Hong Kong - China GK #28 LAM Hiu Tung: Tot 2/31 vs 6-area sum 2/30 (+0/1 uncategorized shot in PDF)",
           "Japan #84 HIGA Kaede: Tot 1/1 vs 6-area sum 0/0 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)"
         ]
+      }
+    },
+    {
+      "match_id": "261124_Korea-Australia",
+      "filename": "261124_Korea-Australia.pdf",
+      "file_mtime": 1795515953.655,
+      "meta": {
+        "tournament": "21st Asian Women's Handball Championship (2026)",
+        "round": "Preliminary Round - Group B, 2. round",
+        "date": "2026-11-24",
+        "date_display": "24.11.2026",
+        "time": "13:00",
+        "attendance": "",
+        "venue": "Olympic Training Centre (Almaty)",
+        "referees": "Kosuke Tanaka / Ryusei Yokota",
+        "team_a": "Australia",
+        "team_b": "Korea",
+        "score_a": 5,
+        "score_b": 53,
+        "half_score_1": "2 - 30",
+        "half_score_2": "3 - 23",
+        "half1_a": 2,
+        "half1_b": 30,
+        "half2_a": 3,
+        "half2_b": 23
+      },
+      "teams": {
+        "a": {
+          "slot": "a",
+          "team": "Australia",
+          "opponent": "Korea",
+          "coach": "Trudy Wan",
+          "score": 5,
+          "opponent_score": 53,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "HARBORT Jemima",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -2.0
+            },
+            {
+              "jersey": "3",
+              "name": "BERNABEI Greta",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.75
+            },
+            {
+              "jersey": "5",
+              "name": "FALLAH Jessica",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 2,
+              "st": 0,
+              "2m": 1,
+              "val": -1.0
+            },
+            {
+              "jersey": "8",
+              "name": "BUCKETT Gemma",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "10",
+              "name": "HAUGEN Hannah Linnea Parsons",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "17",
+              "name": "WAN Trudy",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "19",
+              "name": "THOMAS Amy",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -21.0
+            },
+            {
+              "jersey": "21",
+              "name": "LIVINGSTONE Manon",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -1.75
+            },
+            {
+              "jersey": "25",
+              "name": "BROBY Alinta",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "27",
+              "name": "MILLS Abby",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 1,
+              "val": 0.5
+            },
+            {
+              "jersey": "45",
+              "name": "WONG Sau Hong",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 1,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.25
+            },
+            {
+              "jersey": "52",
+              "name": "GILLESPIE Elisabeth",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "72",
+              "name": "JENKINS Alanah",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "73",
+              "name": "SKJAERET Ane",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -1.0
+            },
+            {
+              "jersey": "91",
+              "name": "GILLESPIE Finlayson",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -2.75
+            },
+            {
+              "jersey": "99",
+              "name": "ZINONOS Orthodoxia",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 5,
+              "a": 11
+            },
+            "areas": {
+              "9m": {
+                "g": 2,
+                "a": 2
+              },
+              "6m": {
+                "g": 2,
+                "a": 2
+              },
+              "Wng": {
+                "g": 0,
+                "a": 1
+              },
+              "7m": {
+                "g": 0,
+                "a": 2
+              },
+              "FB": {
+                "g": 0,
+                "a": 0
+              },
+              "Brk": {
+                "g": 1,
+                "a": 4
+              }
+            },
+            "as": 0,
+            "e7": 0,
+            "tr": 4,
+            "st": 2,
+            "2m": 2
+          },
+          "goalkeepers": [
+            {
+              "jersey": "1",
+              "name": "HARBORT Jemima",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "s": 0,
+                "sh": 4
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 1
+                }
+              },
+              "val": -2.0
+            },
+            {
+              "jersey": "19",
+              "name": "THOMAS Amy",
+              "team": "Australia",
+              "opponent": "Korea",
+              "tot": {
+                "s": 2,
+                "sh": 51
+              },
+              "areas": {
+                "9m": {
+                  "s": 1,
+                  "sh": 10
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 6
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 14
+                },
+                "7m": {
+                  "s": 1,
+                  "sh": 3
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 17
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 1
+                }
+              },
+              "val": -21.0
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 2,
+              "sh": 55
+            },
+            "areas": {
+              "9m": {
+                "s": 1,
+                "sh": 11
+              },
+              "6m": {
+                "s": 0,
+                "sh": 7
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 15
+              },
+              "7m": {
+                "s": 1,
+                "sh": 3
+              },
+              "FB": {
+                "s": 0,
+                "sh": 17
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 2
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 2,
+              "sh": 55
+            },
+            "areas": {
+              "9m": {
+                "s": 1,
+                "sh": 11
+              },
+              "6m": {
+                "s": 0,
+                "sh": 7
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 15
+              },
+              "7m": {
+                "s": 1,
+                "sh": 3
+              },
+              "FB": {
+                "s": 0,
+                "sh": 17
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 2
+              }
+            }
+          }
+        },
+        "b": {
+          "slot": "b",
+          "team": "Korea",
+          "opponent": "Australia",
+          "coach": "Kyechung Lee",
+          "score": 53,
+          "opponent_score": 5,
+          "players": [
+            {
+              "jersey": "4",
+              "name": "LEE Hyewon",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 5,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": 3.0
+            },
+            {
+              "jersey": "7",
+              "name": "LEE Wonjung",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 10,
+                "a": 11
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 8,
+                  "a": 9
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 2,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 11.25
+            },
+            {
+              "jersey": "9",
+              "name": "SEO Aru",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 5,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 2,
+                  "a": 2
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 3.5
+            },
+            {
+              "jersey": "11",
+              "name": "KIM Yeonwoo",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "12",
+              "name": "JEONG Jinhui",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.25
+            },
+            {
+              "jersey": "13",
+              "name": "JEONG Hyunhui",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 4,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 3,
+                  "a": 3
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 1,
+              "val": 1.5
+            },
+            {
+              "jersey": "16",
+              "name": "PARK Saeyoung",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 3.25
+            },
+            {
+              "jersey": "19",
+              "name": "KANG Eunhye",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "20",
+              "name": "JO Eunbeen",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 6,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 3,
+                  "a": 3
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 5.25
+            },
+            {
+              "jersey": "23",
+              "name": "KIM Minseo",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 4,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 5.0
+            },
+            {
+              "jersey": "24",
+              "name": "KIM Sora",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 3.5
+            },
+            {
+              "jersey": "26",
+              "name": "CHA Seoyeon",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 6,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 4,
+                  "a": 5
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": 3.25
+            },
+            {
+              "jersey": "27",
+              "name": "JEON Jiyeon",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 3,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 1,
+                  "a": 3
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.5
+            },
+            {
+              "jersey": "28",
+              "name": "JO Suyeon",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 5,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 3,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 5.0
+            },
+            {
+              "jersey": "30",
+              "name": "HUR Youjin",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "31",
+              "name": "GIM Boeun",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 53,
+              "a": 62
+            },
+            "areas": {
+              "9m": {
+                "g": 10,
+                "a": 12
+              },
+              "6m": {
+                "g": 7,
+                "a": 7
+              },
+              "Wng": {
+                "g": 15,
+                "a": 20
+              },
+              "7m": {
+                "g": 2,
+                "a": 3
+              },
+              "FB": {
+                "g": 17,
+                "a": 18
+              },
+              "Brk": {
+                "g": 2,
+                "a": 2
+              }
+            },
+            "as": 5,
+            "e7": 0,
+            "tr": 3,
+            "st": 1,
+            "2m": 2
+          },
+          "goalkeepers": [
+            {
+              "jersey": "12",
+              "name": "JEONG Jinhui",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "s": 2,
+                "sh": 5
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 1,
+                  "sh": 1
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 1,
+                  "sh": 1
+                }
+              },
+              "val": 2.25
+            },
+            {
+              "jersey": "16",
+              "name": "PARK Saeyoung",
+              "team": "Korea",
+              "opponent": "Australia",
+              "tot": {
+                "s": 2,
+                "sh": 4
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Wng": {
+                  "s": 1,
+                  "sh": 1
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 1,
+                  "sh": 2
+                }
+              },
+              "val": 3.25
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 4,
+              "sh": 9
+            },
+            "areas": {
+              "9m": {
+                "s": 0,
+                "sh": 2
+              },
+              "6m": {
+                "s": 0,
+                "sh": 2
+              },
+              "Wng": {
+                "s": 1,
+                "sh": 1
+              },
+              "7m": {
+                "s": 1,
+                "sh": 1
+              },
+              "FB": {
+                "s": 0,
+                "sh": 0
+              },
+              "Brk": {
+                "s": 2,
+                "sh": 3
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 4,
+              "sh": 9
+            },
+            "areas": {
+              "9m": {
+                "s": 0,
+                "sh": 2
+              },
+              "6m": {
+                "s": 0,
+                "sh": 2
+              },
+              "Wng": {
+                "s": 1,
+                "sh": 1
+              },
+              "7m": {
+                "s": 1,
+                "sh": 1
+              },
+              "FB": {
+                "s": 0,
+                "sh": 0
+              },
+              "Brk": {
+                "s": 2,
+                "sh": 3
+              }
+            }
+          }
+        }
+      },
+      "timeline": {
+        "status": "OK",
+        "message": "Parsed cleanly.",
+        "event_count": 58,
+        "final_a": 5,
+        "final_b": 53,
+        "buckets": [
+          {
+            "label": "0-5",
+            "a": 2,
+            "b": 10
+          },
+          {
+            "label": "5-10",
+            "a": 0,
+            "b": 2
+          },
+          {
+            "label": "10-15",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "15-20",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "20-25",
+            "a": 0,
+            "b": 8
+          },
+          {
+            "label": "25-30",
+            "a": 0,
+            "b": 10
+          },
+          {
+            "label": "30-35",
+            "a": 1,
+            "b": 3
+          },
+          {
+            "label": "35-40",
+            "a": 0,
+            "b": 4
+          },
+          {
+            "label": "40-45",
+            "a": 0,
+            "b": 6
+          },
+          {
+            "label": "45-50",
+            "a": 1,
+            "b": 4
+          },
+          {
+            "label": "50-55",
+            "a": 1,
+            "b": 2
+          },
+          {
+            "label": "55-60",
+            "a": 0,
+            "b": 4
+          }
+        ],
+        "unmatched": []
+      },
+      "validation": {
+        "status": "OK",
+        "error_count": 0,
+        "warning_count": 0,
+        "note_count": 0,
+        "checks": [
+          {
+            "id": 1,
+            "name": "Player/GK Sum vs TOTAL",
+            "status": "OK",
+            "details": "All players & GKs match PDF TOTAL",
+            "notes": []
+          },
+          {
+            "id": 2,
+            "name": "6-Area Sum vs Tot",
+            "status": "OK",
+            "details": "All 6-area sums verified",
+            "notes": []
+          },
+          {
+            "id": 3,
+            "name": "Team TOTAL Goals vs Match Score",
+            "status": "OK",
+            "details": "Australia 5 == 5, Korea 53 == 53",
+            "notes": []
+          },
+          {
+            "id": 4,
+            "name": "GK Conceded vs Opponent Score",
+            "status": "OK",
+            "details": "Australia GK 53==53, Korea GK 5==5",
+            "notes": []
+          },
+          {
+            "id": 5,
+            "name": "Timeline Final Score vs Match Score",
+            "status": "OK",
+            "details": "Timeline 5-53 (58 goals) matches final score",
+            "notes": []
+          }
+        ],
+        "notes": []
       }
     }
   ],
