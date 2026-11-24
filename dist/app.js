@@ -1591,6 +1591,12 @@
 
     try {
       const resp = await fetch("/api/refresh", { method: "POST" });
+      const contentType = resp.headers.get("content-type") || "";
+      if (!contentType.includes("application/json")) {
+        throw new Error(
+          `Local server returned non-JSON (HTTP ${resp.status}). Please double-click Update_Dashboard.command to restart the local server.`
+        );
+      }
       const payload = await resp.json();
       if (!resp.ok || payload.status !== "ok") {
         throw new Error(payload.message || `Refresh failed (${resp.status})`);
@@ -1624,8 +1630,10 @@
       renderActiveTab();
 
       const s = payload.summary;
+      const pub = payload.publish;
+      const pubNote = pub && pub.pushed ? " • GitHub Pages updated!" : "";
       showToast(
-        `Drive sync complete: ${s.parsed_matches} match(es) loaded (${s.ok_matches} OK, ${s.warning_matches} Warning, ${s.error_matches} Error).`,
+        `Drive sync complete: ${s.parsed_matches} match(es) loaded (${s.ok_matches} OK, ${s.warning_matches} Warning, ${s.error_matches} Error).${pubNote}`,
         s.error_matches > 0
       );
     } catch (err) {

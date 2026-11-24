@@ -48,11 +48,18 @@ URL="http://127.0.0.1:${PORT}/"
 
 echo ""
 echo "[3/3] ダッシュボードをブラウザで開きます..."
-if curl -fsS "http://127.0.0.1:${PORT}/api/health" >/dev/null 2>&1; then
+if curl -fsS --max-time 2 "http://127.0.0.1:${PORT}/api/health" >/dev/null 2>&1; then
   echo "✅ ローカルサーバーは既に起動中です: $URL"
   open "$URL"
   echo ""
   echo "更新が完了しました。このウィンドウは閉じて構いません。"
 else
+  # 古い応答不能プロセスがポートを占有していた場合は解放する
+  OLD_PIDS=$(lsof -tiTCP:"${PORT}" -sTCP:LISTEN 2>/dev/null || true)
+  if [ -n "$OLD_PIDS" ]; then
+    echo "ℹ️ 以前のサーバープロセスを終了して再起動します..."
+    kill $OLD_PIDS 2>/dev/null || true
+    sleep 0.5
+  fi
   exec "$PYTHON_BIN" "$SCRIPT_DIR/src/server.py"
 fi

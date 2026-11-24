@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-24T07:36:49+05:00",
+  "generated_at": "2026-11-24T15:23:39+05:00",
   "tournament_name": "21st Asian Women's Handball Championship (2026)",
   "default_team": "Japan",
   "pdf_source": "26AC_Official-Stats",
   "summary": {
-    "total_pdfs": 4,
-    "parsed_matches": 4,
-    "ok_matches": 4,
+    "total_pdfs": 5,
+    "parsed_matches": 5,
+    "ok_matches": 5,
     "warning_matches": 0,
     "error_matches": 0,
     "teams": [
@@ -7516,6 +7516,1843 @@
         ],
         "notes": [
           "Toma-soft PDF source typo in Kazakhstan GK TOTAL FB cell (PDF prints 2/5, individual GKs sum to 0/5). Dashboard uses verified individual GK sum 0/5."
+        ]
+      }
+    },
+    {
+      "match_id": "261124_Japan-Hongkong",
+      "filename": "261124_Japan-Hongkong.pdf",
+      "file_mtime": 1795515126.483,
+      "meta": {
+        "tournament": "21st Asian Women's Handball Championship (2026)",
+        "round": "Preliminary Round - Group A, 2. round",
+        "date": "2026-11-24",
+        "date_display": "24.11.2026",
+        "time": "11:00",
+        "attendance": "200",
+        "venue": "Olympic Training Centre (Almaty)",
+        "referees": "Sevara Razakbergenova / Zakhro Allayarova",
+        "team_a": "Hong Kong - China",
+        "team_b": "Japan",
+        "score_a": 13,
+        "score_b": 34,
+        "half_score_1": "9 - 16",
+        "half_score_2": "4 - 18",
+        "half1_a": 9,
+        "half1_b": 16,
+        "half2_a": 4,
+        "half2_b": 18
+      },
+      "teams": {
+        "a": {
+          "slot": "a",
+          "team": "Hong Kong - China",
+          "opponent": "Japan",
+          "coach": "Tsz Yan Ko",
+          "score": 13,
+          "opponent_score": 34,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "CHEUNG Hoi Yan",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "3",
+              "name": "LEUNG Wing Yin",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 2,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 1,
+              "e7": 1,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": 1.5
+            },
+            {
+              "jersey": "5",
+              "name": "WONG Pui Tung",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 0,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -2.0
+            },
+            {
+              "jersey": "8",
+              "name": "SZE Yan Yee",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -1.75
+            },
+            {
+              "jersey": "9",
+              "name": "LAM Cheuk Ki",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "10",
+              "name": "MAO Loi",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "11",
+              "name": "CHEUNG Man Shan",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 1,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 2,
+              "st": 1,
+              "2m": 0,
+              "val": -1.0
+            },
+            {
+              "jersey": "12",
+              "name": "HO Tsz Ching",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "16",
+              "name": "TSANG Yuen Lam",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": 1.5
+            },
+            {
+              "jersey": "18",
+              "name": "CHONG Sze Ki",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 2,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 5
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 3,
+              "st": 1,
+              "2m": 0,
+              "val": -1.5
+            },
+            {
+              "jersey": "20",
+              "name": "WONG Lok Wing",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 3,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 0.5
+            },
+            {
+              "jersey": "23",
+              "name": "WONG Kit Wah",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "27",
+              "name": "KONG Yuk Ying",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -1.75
+            },
+            {
+              "jersey": "28",
+              "name": "LAM Hiu Tung",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -12.0
+            },
+            {
+              "jersey": "67",
+              "name": "WONG Yui Ki",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 2,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "69",
+              "name": "SUEN Ho Yi",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 13,
+              "a": 25
+            },
+            "areas": {
+              "9m": {
+                "g": 7,
+                "a": 16
+              },
+              "6m": {
+                "g": 2,
+                "a": 4
+              },
+              "Wng": {
+                "g": 0,
+                "a": 0
+              },
+              "7m": {
+                "g": 2,
+                "a": 3
+              },
+              "FB": {
+                "g": 1,
+                "a": 1
+              },
+              "Brk": {
+                "g": 1,
+                "a": 1
+              }
+            },
+            "as": 1,
+            "e7": 3,
+            "tr": 13,
+            "st": 2,
+            "2m": 0
+          },
+          "goalkeepers": [
+            {
+              "jersey": "28",
+              "name": "LAM Hiu Tung",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "s": 2,
+                "sh": 31
+              },
+              "areas": {
+                "9m": {
+                  "s": 2,
+                  "sh": 22
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 5
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": -12.0
+            },
+            {
+              "jersey": "69",
+              "name": "SUEN Ho Yi",
+              "team": "Hong Kong - China",
+              "opponent": "Japan",
+              "tot": {
+                "s": 2,
+                "sh": 7
+              },
+              "areas": {
+                "9m": {
+                  "s": 2,
+                  "sh": 6
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 0.0
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 4,
+              "sh": 38
+            },
+            "areas": {
+              "9m": {
+                "s": 4,
+                "sh": 28
+              },
+              "6m": {
+                "s": 0,
+                "sh": 5
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 1
+              },
+              "7m": {
+                "s": 0,
+                "sh": 2
+              },
+              "FB": {
+                "s": 0,
+                "sh": 1
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 0
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 4,
+              "sh": 38
+            },
+            "areas": {
+              "9m": {
+                "s": 4,
+                "sh": 28
+              },
+              "6m": {
+                "s": 0,
+                "sh": 5
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 1
+              },
+              "7m": {
+                "s": 0,
+                "sh": 2
+              },
+              "FB": {
+                "s": 0,
+                "sh": 1
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 0
+              }
+            }
+          }
+        },
+        "b": {
+          "slot": "b",
+          "team": "Japan",
+          "opponent": "Hong Kong - China",
+          "coach": "Morten Roneklint Soubak",
+          "score": 34,
+          "opponent_score": 13,
+          "players": [
+            {
+              "jersey": "3",
+              "name": "HATSUMI Miyako",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 3,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 3.0
+            },
+            {
+              "jersey": "5",
+              "name": "KINJO Arisa",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 4,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 4,
+                  "a": 6
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.25
+            },
+            {
+              "jersey": "13",
+              "name": "NAKAYAMA Kaho",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 3,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 0.75
+            },
+            {
+              "jersey": "17",
+              "name": "OHMATSUZAWA Ayaka",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "18",
+              "name": "HAMAGUCHI Mao",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "21",
+              "name": "WADA Kaoru",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 7,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 6,
+                  "a": 8
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 1,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 5.0
+            },
+            {
+              "jersey": "23",
+              "name": "AIZAWA Natsuki",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 3,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 5.0
+            },
+            {
+              "jersey": "25",
+              "name": "HOSOE Mizuki",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "32",
+              "name": "SASAKI Haruno",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "39",
+              "name": "GRAY Clare Francis",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "65",
+              "name": "NAKAO Ai",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 6,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 1,
+              "2m": 0,
+              "val": 4.25
+            },
+            {
+              "jersey": "66",
+              "name": "KATO Mao",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "77",
+              "name": "UESHIMA Aki",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "84",
+              "name": "HIGA Kaede",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 11.75
+            },
+            {
+              "jersey": "89",
+              "name": "ISHIKAWA Sora",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 2,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 34,
+              "a": 42
+            },
+            "areas": {
+              "9m": {
+                "g": 24,
+                "a": 31
+              },
+              "6m": {
+                "g": 5,
+                "a": 6
+              },
+              "Wng": {
+                "g": 1,
+                "a": 1
+              },
+              "7m": {
+                "g": 2,
+                "a": 2
+              },
+              "FB": {
+                "g": 1,
+                "a": 1
+              },
+              "Brk": {
+                "g": 0,
+                "a": 0
+              }
+            },
+            "as": 3,
+            "e7": 2,
+            "tr": 6,
+            "st": 3,
+            "2m": 0
+          },
+          "goalkeepers": [
+            {
+              "jersey": "77",
+              "name": "UESHIMA Aki",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "s": 3,
+                "sh": 12
+              },
+              "areas": {
+                "9m": {
+                  "s": 2,
+                  "sh": 7
+                },
+                "6m": {
+                  "s": 1,
+                  "sh": 2
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 1
+                }
+              },
+              "val": 0.0
+            },
+            {
+              "jersey": "84",
+              "name": "HIGA Kaede",
+              "team": "Japan",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "s": 8,
+                "sh": 12
+              },
+              "areas": {
+                "9m": {
+                  "s": 6,
+                  "sh": 8
+                },
+                "6m": {
+                  "s": 1,
+                  "sh": 2
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 1,
+                  "sh": 1
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 11.75
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 11,
+              "sh": 24
+            },
+            "areas": {
+              "9m": {
+                "s": 8,
+                "sh": 15
+              },
+              "6m": {
+                "s": 2,
+                "sh": 4
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 1,
+                "sh": 3
+              },
+              "FB": {
+                "s": 0,
+                "sh": 1
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 1
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 11,
+              "sh": 24
+            },
+            "areas": {
+              "9m": {
+                "s": 8,
+                "sh": 15
+              },
+              "6m": {
+                "s": 2,
+                "sh": 4
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 1,
+                "sh": 3
+              },
+              "FB": {
+                "s": 0,
+                "sh": 1
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 1
+              }
+            }
+          }
+        }
+      },
+      "timeline": {
+        "status": "OK",
+        "message": "Parsed cleanly.",
+        "event_count": 47,
+        "final_a": 13,
+        "final_b": 34,
+        "buckets": [
+          {
+            "label": "0-5",
+            "a": 1,
+            "b": 3
+          },
+          {
+            "label": "5-10",
+            "a": 1,
+            "b": 4
+          },
+          {
+            "label": "10-15",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "15-20",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "20-25",
+            "a": 1,
+            "b": 2
+          },
+          {
+            "label": "25-30",
+            "a": 2,
+            "b": 3
+          },
+          {
+            "label": "30-35",
+            "a": 0,
+            "b": 3
+          },
+          {
+            "label": "35-40",
+            "a": 1,
+            "b": 3
+          },
+          {
+            "label": "40-45",
+            "a": 1,
+            "b": 3
+          },
+          {
+            "label": "45-50",
+            "a": 0,
+            "b": 3
+          },
+          {
+            "label": "50-55",
+            "a": 2,
+            "b": 4
+          },
+          {
+            "label": "55-60",
+            "a": 0,
+            "b": 2
+          }
+        ],
+        "unmatched": []
+      },
+      "validation": {
+        "status": "OK",
+        "error_count": 0,
+        "warning_count": 0,
+        "note_count": 2,
+        "checks": [
+          {
+            "id": 1,
+            "name": "Player/GK Sum vs TOTAL",
+            "status": "OK",
+            "details": "All players & GKs match PDF TOTAL",
+            "notes": []
+          },
+          {
+            "id": 2,
+            "name": "6-Area Sum vs Tot",
+            "status": "OK",
+            "details": "All 6-area sums verified (2 uncategorized/Empty-Goal shot note(s) in PDF)",
+            "notes": [
+              "Hong Kong - China GK #28 LAM Hiu Tung: Tot 2/31 vs 6-area sum 2/30 (+0/1 uncategorized shot in PDF)",
+              "Japan #84 HIGA Kaede: Tot 1/1 vs 6-area sum 0/0 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)"
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Team TOTAL Goals vs Match Score",
+            "status": "OK",
+            "details": "Hong Kong - China 13 == 13, Japan 34 == 34",
+            "notes": []
+          },
+          {
+            "id": 4,
+            "name": "GK Conceded vs Opponent Score",
+            "status": "OK",
+            "details": "Hong Kong - China GK 34==34, Japan GK 13==13",
+            "notes": []
+          },
+          {
+            "id": 5,
+            "name": "Timeline Final Score vs Match Score",
+            "status": "OK",
+            "details": "Timeline 13-34 (47 goals) matches final score",
+            "notes": []
+          }
+        ],
+        "notes": [
+          "Hong Kong - China GK #28 LAM Hiu Tung: Tot 2/31 vs 6-area sum 2/30 (+0/1 uncategorized shot in PDF)",
+          "Japan #84 HIGA Kaede: Tot 1/1 vs 6-area sum 0/0 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)"
         ]
       }
     }
