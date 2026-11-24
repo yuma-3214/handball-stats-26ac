@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-11-24T15:27:15+05:00",
+  "generated_at": "2026-11-24T19:24:18+05:00",
   "tournament_name": "21st Asian Women's Handball Championship (2026)",
   "default_team": "Japan",
   "pdf_source": "26AC_Official-Stats",
   "summary": {
-    "total_pdfs": 6,
-    "parsed_matches": 6,
-    "ok_matches": 6,
+    "total_pdfs": 7,
+    "parsed_matches": 7,
+    "ok_matches": 7,
     "warning_matches": 0,
     "error_matches": 0,
     "teams": [
       "Australia",
       "Hong Kong - China",
+      "India",
       "Iran",
       "Japan",
       "Kazakhstan",
@@ -11223,6 +11224,1879 @@
             "name": "Timeline Final Score vs Match Score",
             "status": "OK",
             "details": "Timeline 5-53 (58 goals) matches final score",
+            "notes": []
+          }
+        ],
+        "notes": []
+      }
+    },
+    {
+      "match_id": "261124_India-Kazakhstan",
+      "filename": "261124_India-Kazakhstan.pdf",
+      "file_mtime": 1795527814.173,
+      "meta": {
+        "tournament": "21st Asian Women's Handball Championship (2026)",
+        "round": "Preliminary Round - Group B, 2. round",
+        "date": "2026-11-24",
+        "date_display": "24.11.2026",
+        "time": "15:00",
+        "attendance": "500",
+        "venue": "Olympic Training Centre (Almaty)",
+        "referees": "Ahmad Gheisarian / Amir Gheisarian",
+        "team_a": "India",
+        "team_b": "Kazakhstan",
+        "score_a": 27,
+        "score_b": 33,
+        "half_score_1": "12 - 22",
+        "half_score_2": "15 - 11",
+        "half1_a": 12,
+        "half1_b": 22,
+        "half2_a": 15,
+        "half2_b": 11
+      },
+      "teams": {
+        "a": {
+          "slot": "a",
+          "team": "India",
+          "opponent": "Kazakhstan",
+          "coach": "Sachin Chaudhary",
+          "score": 27,
+          "opponent_score": 33,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "POOJA Srinivasa",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "2",
+              "name": "JAT Manisha",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "3",
+              "name": "BHAWANA Bhawana",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 9,
+                "a": 16
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 6
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 4,
+                  "a": 5
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 2,
+              "e7": 1,
+              "tr": 3,
+              "st": 0,
+              "2m": 2,
+              "val": 1.0
+            },
+            {
+              "jersey": "4",
+              "name": "DEVI Jagriti",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": 3.5
+            },
+            {
+              "jersey": "5",
+              "name": "SUJATA Sujata",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "6",
+              "name": "SINGH Samriddhi",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "7",
+              "name": "SHARMA Mitali",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 2,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 2,
+              "val": -4.5
+            },
+            {
+              "jersey": "8",
+              "name": "DEVI Shivani",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 3,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 1,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 2,
+                  "a": 2
+                }
+              },
+              "as": 2,
+              "e7": 2,
+              "tr": 5,
+              "st": 1,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "9",
+              "name": "THAKUR Priyanka",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 4,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 2,
+                  "a": 2
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 4.5
+            },
+            {
+              "jersey": "10",
+              "name": "THAKUR Shalini",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 1,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 2,
+              "tr": 1,
+              "st": 1,
+              "2m": 0,
+              "val": 6.5
+            },
+            {
+              "jersey": "11",
+              "name": "SHARMA Gulshan",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 3,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -1.25
+            },
+            {
+              "jersey": "12",
+              "name": "KUMARI Diksha",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 2,
+              "2m": 0,
+              "val": 1.75
+            },
+            {
+              "jersey": "14",
+              "name": "KAUR Parminder",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "15",
+              "name": "SURKSHA Surksha",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 1,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.5
+            },
+            {
+              "jersey": "21",
+              "name": "THAKUR Kritika",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": -1.5
+            },
+            {
+              "jersey": "25",
+              "name": "TEENA Teena",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 27,
+              "a": 49
+            },
+            "areas": {
+              "9m": {
+                "g": 4,
+                "a": 15
+              },
+              "6m": {
+                "g": 8,
+                "a": 16
+              },
+              "Wng": {
+                "g": 4,
+                "a": 5
+              },
+              "7m": {
+                "g": 5,
+                "a": 6
+              },
+              "FB": {
+                "g": 2,
+                "a": 3
+              },
+              "Brk": {
+                "g": 4,
+                "a": 4
+              }
+            },
+            "as": 5,
+            "e7": 6,
+            "tr": 9,
+            "st": 4,
+            "2m": 6
+          },
+          "goalkeepers": [
+            {
+              "jersey": "12",
+              "name": "KUMARI Diksha",
+              "team": "India",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "s": 10,
+                "sh": 43
+              },
+              "areas": {
+                "9m": {
+                  "s": 5,
+                  "sh": 15
+                },
+                "6m": {
+                  "s": 5,
+                  "sh": 21
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 3
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 1.75
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 10,
+              "sh": 43
+            },
+            "areas": {
+              "9m": {
+                "s": 5,
+                "sh": 15
+              },
+              "6m": {
+                "s": 5,
+                "sh": 21
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 2
+              },
+              "7m": {
+                "s": 0,
+                "sh": 2
+              },
+              "FB": {
+                "s": 0,
+                "sh": 3
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 0
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 10,
+              "sh": 43
+            },
+            "areas": {
+              "9m": {
+                "s": 5,
+                "sh": 15
+              },
+              "6m": {
+                "s": 5,
+                "sh": 21
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 2
+              },
+              "7m": {
+                "s": 0,
+                "sh": 2
+              },
+              "FB": {
+                "s": 0,
+                "sh": 3
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 0
+              }
+            }
+          }
+        },
+        "b": {
+          "slot": "b",
+          "team": "Kazakhstan",
+          "opponent": "India",
+          "coach": "Marina Pikalova",
+          "score": 33,
+          "opponent_score": 27,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "ZHAPAROVA Damira",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 7.75
+            },
+            {
+              "jersey": "3",
+              "name": "SITNIKOVA Mariya",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 3,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 3,
+                  "a": 4
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 2.5
+            },
+            {
+              "jersey": "4",
+              "name": "REJEMETOVA Sevara",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 3,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 0.75
+            },
+            {
+              "jersey": "7",
+              "name": "ZHAPAROVA Aida",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 1,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 2,
+              "val": -5.0
+            },
+            {
+              "jersey": "10",
+              "name": "RADAYEVA Kristina",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 8,
+                "a": 10
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 5,
+                  "a": 5
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 10.5
+            },
+            {
+              "jersey": "11",
+              "name": "ZVYAGINA Zlata",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "12",
+              "name": "AITENOVA Zhannat",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -1.5
+            },
+            {
+              "jersey": "14",
+              "name": "ABDIKHAMIT Arailym",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "15",
+              "name": "KHASSAKHANOVA Irina",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 6,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 5
+                },
+                "6m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 4,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 2,
+              "val": 2.75
+            },
+            {
+              "jersey": "22",
+              "name": "MYRZAMSEIITOVA Madina",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": 0.25
+            },
+            {
+              "jersey": "23",
+              "name": "GALYM Kyzzhibek",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 3.75
+            },
+            {
+              "jersey": "33",
+              "name": "RAMAZANOVA Akbota",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -3.25
+            },
+            {
+              "jersey": "55",
+              "name": "STEPANOVA Kristina",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 4,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 2,
+                  "a": 2
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "72",
+              "name": "KUANDYKOVA Zhanerke",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 3,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "77",
+              "name": "FRANKOVSKAYA Yana",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "96",
+              "name": "ABILDA Dana",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "g": 3,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 3,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 1,
+              "st": 1,
+              "2m": 0,
+              "val": 4.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 33,
+              "a": 50
+            },
+            "areas": {
+              "9m": {
+                "g": 10,
+                "a": 19
+              },
+              "6m": {
+                "g": 16,
+                "a": 23
+              },
+              "Wng": {
+                "g": 2,
+                "a": 2
+              },
+              "7m": {
+                "g": 2,
+                "a": 2
+              },
+              "FB": {
+                "g": 3,
+                "a": 4
+              },
+              "Brk": {
+                "g": 0,
+                "a": 0
+              }
+            },
+            "as": 6,
+            "e7": 2,
+            "tr": 7,
+            "st": 4,
+            "2m": 5
+          },
+          "goalkeepers": [
+            {
+              "jersey": "1",
+              "name": "ZHAPAROVA Damira",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "s": 6,
+                "sh": 15
+              },
+              "areas": {
+                "9m": {
+                  "s": 3,
+                  "sh": 4
+                },
+                "6m": {
+                  "s": 3,
+                  "sh": 5
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 3
+                }
+              },
+              "val": 7.75
+            },
+            {
+              "jersey": "12",
+              "name": "AITENOVA Zhannat",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "s": 0,
+                "sh": 3
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": -1.5
+            },
+            {
+              "jersey": "23",
+              "name": "GALYM Kyzzhibek",
+              "team": "Kazakhstan",
+              "opponent": "India",
+              "tot": {
+                "s": 6,
+                "sh": 21
+              },
+              "areas": {
+                "9m": {
+                  "s": 3,
+                  "sh": 5
+                },
+                "6m": {
+                  "s": 2,
+                  "sh": 7
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 3
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 3
+                },
+                "FB": {
+                  "s": 1,
+                  "sh": 2
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 1
+                }
+              },
+              "val": 3.75
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 12,
+              "sh": 39
+            },
+            "areas": {
+              "9m": {
+                "s": 6,
+                "sh": 10
+              },
+              "6m": {
+                "s": 5,
+                "sh": 13
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 4
+              },
+              "7m": {
+                "s": 0,
+                "sh": 5
+              },
+              "FB": {
+                "s": 1,
+                "sh": 3
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 4
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 12,
+              "sh": 39
+            },
+            "areas": {
+              "9m": {
+                "s": 6,
+                "sh": 10
+              },
+              "6m": {
+                "s": 5,
+                "sh": 13
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 4
+              },
+              "7m": {
+                "s": 0,
+                "sh": 5
+              },
+              "FB": {
+                "s": 1,
+                "sh": 3
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 4
+              }
+            }
+          }
+        }
+      },
+      "timeline": {
+        "status": "OK",
+        "message": "Parsed cleanly.",
+        "event_count": 60,
+        "final_a": 27,
+        "final_b": 33,
+        "buckets": [
+          {
+            "label": "0-5",
+            "a": 3,
+            "b": 6
+          },
+          {
+            "label": "5-10",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "10-15",
+            "a": 2,
+            "b": 6
+          },
+          {
+            "label": "15-20",
+            "a": 0,
+            "b": 1
+          },
+          {
+            "label": "20-25",
+            "a": 2,
+            "b": 4
+          },
+          {
+            "label": "25-30",
+            "a": 3,
+            "b": 3
+          },
+          {
+            "label": "30-35",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "35-40",
+            "a": 3,
+            "b": 2
+          },
+          {
+            "label": "40-45",
+            "a": 1,
+            "b": 1
+          },
+          {
+            "label": "45-50",
+            "a": 4,
+            "b": 1
+          },
+          {
+            "label": "50-55",
+            "a": 4,
+            "b": 1
+          },
+          {
+            "label": "55-60",
+            "a": 1,
+            "b": 4
+          }
+        ],
+        "unmatched": []
+      },
+      "validation": {
+        "status": "OK",
+        "error_count": 0,
+        "warning_count": 0,
+        "note_count": 0,
+        "checks": [
+          {
+            "id": 1,
+            "name": "Player/GK Sum vs TOTAL",
+            "status": "OK",
+            "details": "All players & GKs match PDF TOTAL",
+            "notes": []
+          },
+          {
+            "id": 2,
+            "name": "6-Area Sum vs Tot",
+            "status": "OK",
+            "details": "All 6-area sums verified",
+            "notes": []
+          },
+          {
+            "id": 3,
+            "name": "Team TOTAL Goals vs Match Score",
+            "status": "OK",
+            "details": "India 27 == 27, Kazakhstan 33 == 33",
+            "notes": []
+          },
+          {
+            "id": 4,
+            "name": "GK Conceded vs Opponent Score",
+            "status": "OK",
+            "details": "India GK 33==33, Kazakhstan GK 27==27",
+            "notes": []
+          },
+          {
+            "id": 5,
+            "name": "Timeline Final Score vs Match Score",
+            "status": "OK",
+            "details": "Timeline 27-33 (60 goals) matches final score",
             "notes": []
           }
         ],
