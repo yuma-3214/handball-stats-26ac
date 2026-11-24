@@ -99,6 +99,79 @@
         </div>
       </div>
 
+      <div class="two-col-grid">
+        <div class="card">
+          <div class="card-header card-header-wrap">
+            <div>
+              <h2>Top Scorers (Top 10)</h2>
+              <p class="card-subtitle">Tournament individual scoring leaders. Click a player for full area breakdown &amp; match log.</p>
+            </div>
+            <div class="control-inline">
+              <label for="scorerLeaderSelect" class="inline-label">Rank by</label>
+              <select id="scorerLeaderSelect" class="metric-select metric-select-sm">
+                <option value="totG">Total Goals</option>
+                <option value="goalsPerGame">Goals / Match</option>
+                <option value="g9m">9m Goals</option>
+                <option value="gFB">Fastbreak Goals</option>
+                <option value="val">Valorization</option>
+              </select>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table class="stats-table compact-table">
+              <thead>
+                <tr>
+                  <th class="sticky-col col-rk">Rk</th>
+                  <th>Player</th>
+                  <th>Team</th>
+                  <th class="num">GP</th>
+                  <th class="num">G/A</th>
+                  <th class="num">Shot %</th>
+                  <th class="num">G/GP</th>
+                  <th class="num">Val</th>
+                </tr>
+              </thead>
+              <tbody id="topScorersBody"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header card-header-wrap">
+            <div>
+              <h2>Top Goalkeepers (Top 10)</h2>
+              <p class="card-subtitle">Tournament goalkeeper leaders (shots faced &gt; 0). Click a GK for area save rates &amp; match log.</p>
+            </div>
+            <div class="control-inline">
+              <label for="gkLeaderSelect" class="inline-label">Rank by</label>
+              <select id="gkLeaderSelect" class="metric-select metric-select-sm">
+                <option value="totS">Total Saves</option>
+                <option value="savePct">Save % (min 5 sh)</option>
+                <option value="savesPerGame">Saves / Match</option>
+                <option value="val">Valorization</option>
+              </select>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table class="stats-table compact-table">
+              <thead>
+                <tr>
+                  <th class="sticky-col col-rk">Rk</th>
+                  <th>Goalkeeper</th>
+                  <th>Team</th>
+                  <th class="num">GP</th>
+                  <th class="num">S/Sh</th>
+                  <th class="num">Save %</th>
+                  <th class="num">S/GP</th>
+                  <th class="num">Val</th>
+                </tr>
+              </thead>
+              <tbody id="topGksBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
       <div class="card">
         <div class="card-header card-header-wrap">
           <div>

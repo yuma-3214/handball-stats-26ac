@@ -553,6 +553,42 @@ button, select {
   font-variant-numeric: tabular-nums;
 }
 
+.metric-select-sm {
+  padding: 4px 26px 4px 9px;
+  font-size: 12px;
+}
+
+.col-rk {
+  width: 38px;
+  min-width: 38px;
+  text-align: center !important;
+}
+
+.rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 800;
+  background: var(--bg);
+  color: var(--ink-secondary);
+}
+
+.rank-1 { background: #fef3c7; color: #92400e; border: 1px solid #f59e0b; }
+.rank-2 { background: #e2e8f0; color: #334155; border: 1px solid #94a3b8; }
+.rank-3 { background: #ffedd5; color: #9a3412; border: 1px solid #fb923c; }
+
+.leader-jersey {
+  display: inline-block;
+  min-width: 22px;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--ink-muted);
+}
+
 /* Segmented Toggle & Controls */
 .control-inline {
   display: flex;

@@ -30,7 +30,7 @@ if [ "$AUTO_PUBLISH" = "1" ] && [ -d "$SCRIPT_DIR/.git" ]; then
   # docs/ フォルダ（GitHub Pages公開用）へ dist/ を同期して push
   rm -rf "$SCRIPT_DIR/docs"
   cp -R "$SCRIPT_DIR/dist" "$SCRIPT_DIR/docs"
-  git add docs/ data/stats.json
+  git add docs/ dist/ data/stats.json web/ src/ Update_Dashboard.command README.md .gitignore
   if ! git diff --cached --quiet; then
     git commit -m "Update official stats dashboard ($(date '+%Y-%m-%d %H:%M'))"
     git push || echo "⚠️ ネット未接続のためGitHubへの反映をスキップしました（ローカル版は最新です）。"

@@ -19,6 +19,8 @@
     selectedMatchIds: new Set(),
     timelineMode: "sum",
     overviewMetric: "shotPct",
+    scorerLeaderMetric: "totG",
+    gkLeaderMetric: "totS",
     localServerAvailable: false,
     sorts: {
       overview: { key: "diff", dir: "desc" },
@@ -317,7 +319,7 @@
     for (const { match, teamData } of entries) {
       const resultChar = teamData.score > teamData.opponent_score ? "W" : (teamData.score < teamData.opponent_score ? "L" : "D");
       for (const p of teamData.players) {
-        const key = `${p.jersey}::${p.name.toUpperCase()}`;
+        const key = `${p.team}::${p.jersey}::${p.name.toUpperCase()}`;
         if (!map.has(key)) {
           const areas = {};
           for (const area of AREAS) areas[area] = { g: 0, a: 0 };
@@ -389,7 +391,7 @@
     for (const { match, teamData } of entries) {
       const resultChar = teamData.score > teamData.opponent_score ? "W" : (teamData.score < teamData.opponent_score ? "L" : "D");
       for (const gk of teamData.goalkeepers) {
-        const key = `${gk.jersey}::${gk.name.toUpperCase()}`;
+        const key = `${gk.team}::${gk.jersey}::${gk.name.toUpperCase()}`;
         if (!map.has(key)) {
           const areas = {};
           for (const area of AREAS) areas[area] = { s: 0, sh: 0 };
@@ -568,7 +570,105 @@
       })
       .join("");
 
+    renderOverviewLeaders();
     renderOverviewChart(teamRows);
+  }
+
+  function getAllTournamentEntries() {
+    if (!state.data || !state.data.matches) return [];
+    const entries = [];
+    for (const match of state.data.matches) {
+      entries.push({ match, side: "a", oppSide: "b", teamData: match.teams.a, oppData: match.teams.b });
+      entries.push({ match, side: "b", oppSide: "a", teamData: match.teams.b, oppData: match.teams.a });
+    }
+    return entries;
+  }
+
+  function renderOverviewLeaders() {
+    const allEntries = getAllTournamentEntries();
+
+    // Aggregate all players across the entire tournament (key includes team to prevent collisions)
+    const allPlayersRaw = aggregatePlayers(allEntries).map((p) => ({
+      ...p,
+      goalsPerGame: p.gp > 0 ? p.totG / p.gp : 0,
+    }));
+    const scorerMetric = state.scorerLeaderMetric;
+    const topScorers = [...allPlayersRaw]
+      .filter((p) => p.totA > 0 || p.totG > 0 || (scorerMetric === "val" && p.val !== 0))
+      .sort((a, b) => {
+        const diff = (b[scorerMetric] ?? -999) - (a[scorerMetric] ?? -999);
+        if (Math.abs(diff) > 1e-9) return diff;
+        if (b.totG !== a.totG) return b.totG - a.totG;
+        return (b.totPct ?? -1) - (a.totPct ?? -1);
+      })
+      .slice(0, 10);
+
+    state._leaderPlayersByKey = new Map(allPlayersRaw.map((p) => [p.key, p]));
+
+    document.getElementById("topScorersBody").innerHTML = topScorers
+      .map((p, idx) => {
+        const rk = idx + 1;
+        const rkCls = rk <= 3 ? ` rank-${rk}` : "";
+        const activeCls = p.team === state.selectedTeam ? " active-team-row" : "";
+        return `
+          <tr class="clickable-row${activeCls}" data-leader-player-key="${escapeHtml(p.key)}">
+            <td class="sticky-col col-rk"><span class="rank-badge${rkCls}">${rk}</span></td>
+            <td><span class="leader-jersey">#${escapeHtml(p.jersey)}</span> <strong>${escapeHtml(p.name)}</strong></td>
+            <td>${escapeHtml(p.team)}</td>
+            <td class="num">${p.gp}</td>
+            <td class="num"><strong>${fmtRatio(p.totG, p.totA)}</strong></td>
+            <td class="num ${pctClass(p.totPct, 65, 45)}">${fmtPct(p.totPct)}</td>
+            <td class="num">${p.goalsPerGame.toFixed(1)}</td>
+            <td class="num ${valClass(p.val)}">${p.val.toFixed(2)}</td>
+          </tr>
+        `;
+      })
+      .join("");
+
+    // Aggregate all goalkeepers across the entire tournament
+    const allGksRaw = aggregateGoalkeepers(allEntries).map((gk) => ({
+      ...gk,
+      savesPerGame: gk.gp > 0 ? gk.totS / gk.gp : 0,
+      savePct: gk.totPct,
+    }));
+    const gkMetric = state.gkLeaderMetric;
+    const topGks = [...allGksRaw]
+      .filter((gk) => gk.totSh > 0)
+      .sort((a, b) => {
+        if (gkMetric === "savePct") {
+          // Prioritize goalkeepers with at least 5 shots faced
+          const aQual = a.totSh >= 5 ? 1 : 0;
+          const bQual = b.totSh >= 5 ? 1 : 0;
+          if (bQual !== aQual) return bQual - aQual;
+        }
+        const diff = (b[gkMetric] ?? -999) - (a[gkMetric] ?? -999);
+        if (Math.abs(diff) > 1e-9) return diff;
+        if (b.totS !== a.totS) return b.totS - a.totS;
+        return (b.totPct ?? -1) - (a.totPct ?? -1);
+      })
+      .slice(0, 10);
+
+    state._leaderGksByKey = new Map(allGksRaw.map((g) => [g.key, g]));
+
+    document.getElementById("topGksBody").innerHTML = topGks
+      .map((gk, idx) => {
+        const rk = idx + 1;
+        const rkCls = rk <= 3 ? ` rank-${rk}` : "";
+        const activeCls = gk.team === state.selectedTeam ? " active-team-row" : "";
+        return `
+          <tr class="clickable-row${activeCls}" data-leader-gk-key="${escapeHtml(gk.key)}">
+            <td class="sticky-col col-rk"><span class="rank-badge${rkCls}">${rk}</span></td>
+            <td><span class="leader-jersey">#${escapeHtml(gk.jersey)}</span> <strong>${escapeHtml(gk.name)}</strong></td>
+            <td>${escapeHtml(gk.team)}</td>
+            <td class="num">${gk.gp}</td>
+            <td class="num"><strong>${fmtRatio(gk.totS, gk.totSh)}</strong></td>
+            <td class="num ${pctClass(gk.totPct, 35, 20)}">${fmtPct(gk.totPct)}</td>
+            <td class="num">${gk.savesPerGame.toFixed(1)}</td>
+            <td class="num ${valClass(gk.val)}">${gk.val.toFixed(2)}</td>
+          </tr>
+        `;
+      })
+      .join("");
   }
 
   function renderOverviewChart(teamRows) {
@@ -1575,6 +1675,30 @@
     document.getElementById("overviewMetricSelect").addEventListener("change", (e) => {
       state.overviewMetric = e.target.value;
       renderOverview();
+    });
+
+    document.getElementById("scorerLeaderSelect").addEventListener("change", (e) => {
+      state.scorerLeaderMetric = e.target.value;
+      renderOverviewLeaders();
+    });
+
+    document.getElementById("gkLeaderSelect").addEventListener("change", (e) => {
+      state.gkLeaderMetric = e.target.value;
+      renderOverviewLeaders();
+    });
+
+    document.getElementById("topScorersBody").addEventListener("click", (e) => {
+      const tr = e.target.closest("tr[data-leader-player-key]");
+      if (!tr || !state._leaderPlayersByKey) return;
+      const p = state._leaderPlayersByKey.get(tr.dataset.leaderPlayerKey);
+      if (p) openPlayerModal(p);
+    });
+
+    document.getElementById("topGksBody").addEventListener("click", (e) => {
+      const tr = e.target.closest("tr[data-leader-gk-key]");
+      if (!tr || !state._leaderGksByKey) return;
+      const gk = state._leaderGksByKey.get(tr.dataset.leaderGkKey);
+      if (gk) openGkModal(gk);
     });
 
     document.getElementById("overviewTableBody").addEventListener("click", (e) => {
