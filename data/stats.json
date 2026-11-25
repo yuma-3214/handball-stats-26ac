@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-11-24T19:24:18+05:00",
+  "generated_at": "2026-11-25T12:59:23+05:00",
   "tournament_name": "21st Asian Women's Handball Championship (2026)",
   "default_team": "Japan",
   "pdf_source": "26AC_Official-Stats",
   "summary": {
-    "total_pdfs": 7,
-    "parsed_matches": 7,
-    "ok_matches": 7,
+    "total_pdfs": 8,
+    "parsed_matches": 8,
+    "ok_matches": 8,
     "warning_matches": 0,
     "error_matches": 0,
     "teams": [
       "Australia",
+      "China",
       "Hong Kong - China",
       "India",
       "Iran",
@@ -13101,6 +13102,1930 @@
           }
         ],
         "notes": []
+      }
+    },
+    {
+      "match_id": "261124_China-Iran",
+      "filename": "261124_China-Iran.pdf",
+      "file_mtime": 1795593514.438,
+      "meta": {
+        "tournament": "21st Asian Women's Handball Championship (2026)",
+        "round": "Preliminary Round - Group A, 2. round",
+        "date": "2026-11-24",
+        "date_display": "24.11.2026",
+        "time": "17:00",
+        "attendance": "400",
+        "venue": "Olympic Training Centre (Almaty)",
+        "referees": "Omer Al-Shahi / Khamis Al Wahibi",
+        "team_a": "China",
+        "team_b": "Iran",
+        "score_a": 34,
+        "score_b": 32,
+        "half_score_1": "21 - 17",
+        "half_score_2": "13 - 15",
+        "half1_a": 21,
+        "half1_b": 17,
+        "half2_a": 13,
+        "half2_b": 15
+      },
+      "teams": {
+        "a": {
+          "slot": "a",
+          "team": "China",
+          "opponent": "Iran",
+          "coach": "Yongli Zheng",
+          "score": 34,
+          "opponent_score": 32,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "LU Chang",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -2.5
+            },
+            {
+              "jersey": "8",
+              "name": "LIANG Jing",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "9",
+              "name": "ZHANG Shuoyan",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "10",
+              "name": "SHI Zihan",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 3,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 2,
+                  "a": 3
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 3.5
+            },
+            {
+              "jersey": "11",
+              "name": "LIU Chan",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 10,
+                "a": 14
+              },
+              "areas": {
+                "9m": {
+                  "g": 8,
+                  "a": 9
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 3
+                }
+              },
+              "as": 0,
+              "e7": 2,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 8.0
+            },
+            {
+              "jersey": "17",
+              "name": "ZHU Haiyun",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "20",
+              "name": "HOU Changqing",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 6,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 3,
+                  "a": 4
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 2,
+              "2m": 1,
+              "val": 5.5
+            },
+            {
+              "jersey": "21",
+              "name": "ZHANG Pingping",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.75
+            },
+            {
+              "jersey": "23",
+              "name": "ZHANG Jingwen",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "24",
+              "name": "QU Wenna",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 5,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 3.5
+            },
+            {
+              "jersey": "25",
+              "name": "HU Yunuo",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -3.0
+            },
+            {
+              "jersey": "27",
+              "name": "JIAO Ya",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "28",
+              "name": "LIU Xuedan",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 4,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 1.75
+            },
+            {
+              "jersey": "31",
+              "name": "ZHAO Xinyao",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.5
+            },
+            {
+              "jersey": "51",
+              "name": "WANG Yujia",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": 2.0
+            },
+            {
+              "jersey": "53",
+              "name": "LIU Yuting",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "g": 3,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 2,
+                  "a": 2
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 4.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 34,
+              "a": 45
+            },
+            "areas": {
+              "9m": {
+                "g": 11,
+                "a": 15
+              },
+              "6m": {
+                "g": 3,
+                "a": 3
+              },
+              "Wng": {
+                "g": 4,
+                "a": 5
+              },
+              "7m": {
+                "g": 4,
+                "a": 4
+              },
+              "FB": {
+                "g": 7,
+                "a": 9
+              },
+              "Brk": {
+                "g": 2,
+                "a": 5
+              }
+            },
+            "as": 2,
+            "e7": 2,
+            "tr": 1,
+            "st": 4,
+            "2m": 2
+          },
+          "goalkeepers": [
+            {
+              "jersey": "1",
+              "name": "LU Chang",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "s": 3,
+                "sh": 16
+              },
+              "areas": {
+                "9m": {
+                  "s": 2,
+                  "sh": 6
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 1,
+                  "sh": 4
+                }
+              },
+              "val": -2.5
+            },
+            {
+              "jersey": "25",
+              "name": "HU Yunuo",
+              "team": "China",
+              "opponent": "Iran",
+              "tot": {
+                "s": 4,
+                "sh": 23
+              },
+              "areas": {
+                "9m": {
+                  "s": 1,
+                  "sh": 4
+                },
+                "6m": {
+                  "s": 1,
+                  "sh": 4
+                },
+                "Wng": {
+                  "s": 1,
+                  "sh": 4
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 3
+                },
+                "Brk": {
+                  "s": 1,
+                  "sh": 5
+                }
+              },
+              "val": -3.0
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 7,
+              "sh": 39
+            },
+            "areas": {
+              "9m": {
+                "s": 3,
+                "sh": 10
+              },
+              "6m": {
+                "s": 1,
+                "sh": 6
+              },
+              "Wng": {
+                "s": 1,
+                "sh": 6
+              },
+              "7m": {
+                "s": 0,
+                "sh": 4
+              },
+              "FB": {
+                "s": 0,
+                "sh": 3
+              },
+              "Brk": {
+                "s": 2,
+                "sh": 9
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 7,
+              "sh": 39
+            },
+            "areas": {
+              "9m": {
+                "s": 3,
+                "sh": 10
+              },
+              "6m": {
+                "s": 1,
+                "sh": 6
+              },
+              "Wng": {
+                "s": 1,
+                "sh": 6
+              },
+              "7m": {
+                "s": 0,
+                "sh": 4
+              },
+              "FB": {
+                "s": 0,
+                "sh": 3
+              },
+              "Brk": {
+                "s": 2,
+                "sh": 9
+              }
+            }
+          }
+        },
+        "b": {
+          "slot": "b",
+          "team": "Iran",
+          "opponent": "China",
+          "coach": "Majid Rahimizadeh",
+          "score": 32,
+          "opponent_score": 34,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "YARMOHAMMADTOUSKI Elnsaz",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.75
+            },
+            {
+              "jersey": "4",
+              "name": "MERIKH Fatemeh",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 3,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 2
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -2.25
+            },
+            {
+              "jersey": "6",
+              "name": "KARIMI Samin",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "7",
+              "name": "NOSOOHI Shahrzad",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": -1.5
+            },
+            {
+              "jersey": "8",
+              "name": "KARIMI Haniyeh",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 5,
+                "a": 8
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 2
+                },
+                "7m": {
+                  "g": 3,
+                  "a": 3
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 4.0
+            },
+            {
+              "jersey": "12",
+              "name": "KHALILI BEHFAR Fatemeh",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -4.0
+            },
+            {
+              "jersey": "17",
+              "name": "BADVI Mehraban",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 4,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 4.5
+            },
+            {
+              "jersey": "19",
+              "name": "NOROUZI KHORZOUGHI Hadiseh",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 7,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 5,
+                  "a": 5
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 7.0
+            },
+            {
+              "jersey": "20",
+              "name": "EIZADGASHB Bahar",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.75
+            },
+            {
+              "jersey": "24",
+              "name": "BADVI Aseman",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 8,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 5,
+                  "a": 5
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 4,
+              "st": 1,
+              "2m": 0,
+              "val": 5.0
+            },
+            {
+              "jersey": "27",
+              "name": "KIYANIARA Arezou",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -1.75
+            },
+            {
+              "jersey": "42",
+              "name": "HOSSEINI Seyedehleila",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 3,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 3,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 2.75
+            },
+            {
+              "jersey": "49",
+              "name": "GHAZANFARI Saeideh",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "78",
+              "name": "GHASEMI Elnaz",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "88",
+              "name": "OSHAGHI Maede",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "91",
+              "name": "AFSHARI ESFIDVAJANI Zahra",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 32,
+              "a": 44
+            },
+            "areas": {
+              "9m": {
+                "g": 7,
+                "a": 13
+              },
+              "6m": {
+                "g": 5,
+                "a": 6
+              },
+              "Wng": {
+                "g": 5,
+                "a": 7
+              },
+              "7m": {
+                "g": 4,
+                "a": 4
+              },
+              "FB": {
+                "g": 3,
+                "a": 4
+              },
+              "Brk": {
+                "g": 7,
+                "a": 9
+              }
+            },
+            "as": 2,
+            "e7": 1,
+            "tr": 8,
+            "st": 2,
+            "2m": 1
+          },
+          "goalkeepers": [
+            {
+              "jersey": "1",
+              "name": "YARMOHAMMADTOUSKI Elnsaz",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "s": 9,
+                "sh": 35
+              },
+              "areas": {
+                "9m": {
+                  "s": 2,
+                  "sh": 8
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 3
+                },
+                "Wng": {
+                  "s": 1,
+                  "sh": 4
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 4
+                },
+                "FB": {
+                  "s": 2,
+                  "sh": 8
+                },
+                "Brk": {
+                  "s": 3,
+                  "sh": 4
+                }
+              },
+              "val": 1.75
+            },
+            {
+              "jersey": "12",
+              "name": "KHALILI BEHFAR Fatemeh",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "s": 0,
+                "sh": 8
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 5
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 1
+                }
+              },
+              "val": -4.0
+            },
+            {
+              "jersey": "91",
+              "name": "AFSHARI ESFIDVAJANI Zahra",
+              "team": "Iran",
+              "opponent": "China",
+              "tot": {
+                "s": 0,
+                "sh": 0
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 0.0
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 9,
+              "sh": 43
+            },
+            "areas": {
+              "9m": {
+                "s": 2,
+                "sh": 13
+              },
+              "6m": {
+                "s": 0,
+                "sh": 3
+              },
+              "Wng": {
+                "s": 1,
+                "sh": 5
+              },
+              "7m": {
+                "s": 0,
+                "sh": 4
+              },
+              "FB": {
+                "s": 2,
+                "sh": 9
+              },
+              "Brk": {
+                "s": 3,
+                "sh": 5
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 9,
+              "sh": 43
+            },
+            "areas": {
+              "9m": {
+                "s": 2,
+                "sh": 13
+              },
+              "6m": {
+                "s": 0,
+                "sh": 3
+              },
+              "Wng": {
+                "s": 1,
+                "sh": 5
+              },
+              "7m": {
+                "s": 0,
+                "sh": 4
+              },
+              "FB": {
+                "s": 2,
+                "sh": 9
+              },
+              "Brk": {
+                "s": 3,
+                "sh": 5
+              }
+            }
+          }
+        }
+      },
+      "timeline": {
+        "status": "OK",
+        "message": "Parsed cleanly.",
+        "event_count": 66,
+        "final_a": 34,
+        "final_b": 32,
+        "buckets": [
+          {
+            "label": "0-5",
+            "a": 4,
+            "b": 1
+          },
+          {
+            "label": "5-10",
+            "a": 4,
+            "b": 5
+          },
+          {
+            "label": "10-15",
+            "a": 5,
+            "b": 2
+          },
+          {
+            "label": "15-20",
+            "a": 4,
+            "b": 4
+          },
+          {
+            "label": "20-25",
+            "a": 0,
+            "b": 2
+          },
+          {
+            "label": "25-30",
+            "a": 4,
+            "b": 3
+          },
+          {
+            "label": "30-35",
+            "a": 3,
+            "b": 3
+          },
+          {
+            "label": "35-40",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "40-45",
+            "a": 4,
+            "b": 2
+          },
+          {
+            "label": "45-50",
+            "a": 2,
+            "b": 3
+          },
+          {
+            "label": "50-55",
+            "a": 2,
+            "b": 0
+          },
+          {
+            "label": "55-60",
+            "a": 0,
+            "b": 5
+          }
+        ],
+        "unmatched": []
+      },
+      "validation": {
+        "status": "OK",
+        "error_count": 0,
+        "warning_count": 0,
+        "note_count": 6,
+        "checks": [
+          {
+            "id": 1,
+            "name": "Player/GK Sum vs TOTAL",
+            "status": "OK",
+            "details": "All players & GKs match PDF TOTAL",
+            "notes": []
+          },
+          {
+            "id": 2,
+            "name": "6-Area Sum vs Tot",
+            "status": "OK",
+            "details": "All 6-area sums verified (6 uncategorized/Empty-Goal shot note(s) in PDF)",
+            "notes": [
+              "China #10 SHI Zihan: Tot 3/4 vs 6-area sum 2/3 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)",
+              "China #20 HOU Changqing: Tot 6/7 vs 6-area sum 5/6 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)",
+              "China #28 LIU Xuedan: Tot 4/7 vs 6-area sum 3/5 (+1/2 uncategorized shot in PDF, e.g. Empty Goal / direct throw)",
+              "China GK #25 HU Yunuo: Tot 4/23 vs 6-area sum 4/22 (+0/1 uncategorized shot in PDF)",
+              "Iran #1 YARMOHAMMADTOUSKI Elnsaz: Tot 1/1 vs 6-area sum 0/0 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)",
+              "Iran GK #1 YARMOHAMMADTOUSKI Elnsaz: Tot 9/35 vs 6-area sum 8/31 (+1/4 uncategorized shot in PDF)"
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Team TOTAL Goals vs Match Score",
+            "status": "OK",
+            "details": "China 34 == 34, Iran 32 == 32",
+            "notes": []
+          },
+          {
+            "id": 4,
+            "name": "GK Conceded vs Opponent Score",
+            "status": "OK",
+            "details": "China GK 32==32, Iran GK 34==34",
+            "notes": []
+          },
+          {
+            "id": 5,
+            "name": "Timeline Final Score vs Match Score",
+            "status": "OK",
+            "details": "Timeline 34-32 (66 goals) matches final score",
+            "notes": []
+          }
+        ],
+        "notes": [
+          "China #10 SHI Zihan: Tot 3/4 vs 6-area sum 2/3 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)",
+          "China #20 HOU Changqing: Tot 6/7 vs 6-area sum 5/6 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)",
+          "China #28 LIU Xuedan: Tot 4/7 vs 6-area sum 3/5 (+1/2 uncategorized shot in PDF, e.g. Empty Goal / direct throw)",
+          "China GK #25 HU Yunuo: Tot 4/23 vs 6-area sum 4/22 (+0/1 uncategorized shot in PDF)",
+          "Iran #1 YARMOHAMMADTOUSKI Elnsaz: Tot 1/1 vs 6-area sum 0/0 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)",
+          "Iran GK #1 YARMOHAMMADTOUSKI Elnsaz: Tot 9/35 vs 6-area sum 8/31 (+1/4 uncategorized shot in PDF)"
+        ]
       }
     }
   ],
