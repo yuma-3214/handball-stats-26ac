@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T14:36:57+05:00",
+  "generated_at": "2026-11-25T17:35:55+05:00",
   "tournament_name": "21st Asian Women's Handball Championship (2026)",
   "default_team": "Japan",
   "pdf_source": "26AC_Official-Stats",
   "summary": {
-    "total_pdfs": 9,
-    "parsed_matches": 9,
-    "ok_matches": 9,
+    "total_pdfs": 11,
+    "parsed_matches": 11,
+    "ok_matches": 11,
     "warning_matches": 0,
     "error_matches": 0,
     "teams": [
@@ -16862,6 +16862,3795 @@
           }
         ],
         "notes": []
+      }
+    },
+    {
+      "match_id": "261125_Iran-Thailand",
+      "filename": "261125_Iran-Thailand.pdf",
+      "file_mtime": 1795610070.367,
+      "meta": {
+        "tournament": "21st Asian Women's Handball Championship (2026)",
+        "round": "Preliminary Round - Group A, 3. round",
+        "date": "2026-11-25",
+        "date_display": "25.11.2026",
+        "time": "13:00",
+        "attendance": "200",
+        "venue": "Olympic Training Centre (Almaty)",
+        "referees": "Mohamed Jamal / Mohammad Basem",
+        "team_a": "Iran",
+        "team_b": "Thailand",
+        "score_a": 23,
+        "score_b": 15,
+        "half_score_1": "17 - 9",
+        "half_score_2": "6 - 6",
+        "half1_a": 17,
+        "half1_b": 9,
+        "half2_a": 6,
+        "half2_b": 6
+      },
+      "teams": {
+        "a": {
+          "slot": "a",
+          "team": "Iran",
+          "opponent": "Thailand",
+          "coach": "Majid Rahimizadeh",
+          "score": 23,
+          "opponent_score": 15,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "YARMOHAMMADTOUSKI Elnsaz",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "6",
+              "name": "KARIMI Samin",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 2
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -1.5
+            },
+            {
+              "jersey": "7",
+              "name": "NOSOOHI Shahrzad",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "8",
+              "name": "KARIMI Haniyeh",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 5,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 3,
+                  "a": 4
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 4.25
+            },
+            {
+              "jersey": "11",
+              "name": "NIKAN Elaheh",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 3,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 3,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 2,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 5.0
+            },
+            {
+              "jersey": "12",
+              "name": "KHALILI BEHFAR Fatemeh",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "17",
+              "name": "BADVI Mehraban",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "19",
+              "name": "NOROUZI KHORZOUGHI Hadiseh",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "20",
+              "name": "EIZADGASHB Bahar",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 6,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 3,
+                  "a": 3
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "FB": {
+                  "g": 2,
+                  "a": 4
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 3.5
+            },
+            {
+              "jersey": "24",
+              "name": "BADVI Aseman",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "42",
+              "name": "HOSSEINI Seyedehleila",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 2,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "49",
+              "name": "GHAZANFARI Saeideh",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 1,
+              "val": -1.0
+            },
+            {
+              "jersey": "78",
+              "name": "GHASEMI Elnaz",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "88",
+              "name": "OSHAGHI Maede",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 6,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 6,
+                  "a": 7
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 2,
+              "e7": 0,
+              "tr": 1,
+              "st": 2,
+              "2m": 0,
+              "val": 5.75
+            },
+            {
+              "jersey": "89",
+              "name": "HASSAN NEJADI Mobina",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "91",
+              "name": "AFSHARI ESFIDVAJANI Zahra",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -4.75
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 23,
+              "a": 34
+            },
+            "areas": {
+              "9m": {
+                "g": 8,
+                "a": 10
+              },
+              "6m": {
+                "g": 5,
+                "a": 6
+              },
+              "Wng": {
+                "g": 6,
+                "a": 9
+              },
+              "7m": {
+                "g": 1,
+                "a": 2
+              },
+              "FB": {
+                "g": 3,
+                "a": 7
+              },
+              "Brk": {
+                "g": 0,
+                "a": 0
+              }
+            },
+            "as": 4,
+            "e7": 0,
+            "tr": 2,
+            "st": 4,
+            "2m": 1
+          },
+          "goalkeepers": [
+            {
+              "jersey": "1",
+              "name": "YARMOHAMMADTOUSKI Elnsaz",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "s": 0,
+                "sh": 0
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 0.0
+            },
+            {
+              "jersey": "12",
+              "name": "KHALILI BEHFAR Fatemeh",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "s": 0,
+                "sh": 0
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 0.0
+            },
+            {
+              "jersey": "91",
+              "name": "AFSHARI ESFIDVAJANI Zahra",
+              "team": "Iran",
+              "opponent": "Thailand",
+              "tot": {
+                "s": 2,
+                "sh": 17
+              },
+              "areas": {
+                "9m": {
+                  "s": 1,
+                  "sh": 2
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 4
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 8
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 1,
+                  "sh": 1
+                }
+              },
+              "val": -4.75
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 2,
+              "sh": 17
+            },
+            "areas": {
+              "9m": {
+                "s": 1,
+                "sh": 2
+              },
+              "6m": {
+                "s": 0,
+                "sh": 4
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 8
+              },
+              "7m": {
+                "s": 0,
+                "sh": 2
+              },
+              "FB": {
+                "s": 0,
+                "sh": 0
+              },
+              "Brk": {
+                "s": 1,
+                "sh": 1
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 2,
+              "sh": 17
+            },
+            "areas": {
+              "9m": {
+                "s": 1,
+                "sh": 2
+              },
+              "6m": {
+                "s": 0,
+                "sh": 4
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 8
+              },
+              "7m": {
+                "s": 0,
+                "sh": 2
+              },
+              "FB": {
+                "s": 0,
+                "sh": 0
+              },
+              "Brk": {
+                "s": 1,
+                "sh": 1
+              }
+            }
+          }
+        },
+        "b": {
+          "slot": "b",
+          "team": "Thailand",
+          "opponent": "Iran",
+          "coach": "Sanit Iamphuchuai",
+          "score": 15,
+          "opponent_score": 23,
+          "players": [
+            {
+              "jersey": "4",
+              "name": "PHANTHONGLO Sasikorn",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "6",
+              "name": "CHANTHA Arthittaya",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "7",
+              "name": "POLPHON Nattawan",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 5,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 4,
+                  "a": 4
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": 2.5
+            },
+            {
+              "jersey": "9",
+              "name": "WONGSA Nattarika",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": -0.5
+            },
+            {
+              "jersey": "14",
+              "name": "SAOHONG Supanya",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -1.0
+            },
+            {
+              "jersey": "16",
+              "name": "BUMRUNGWAS Chutima",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "19",
+              "name": "KONGKUL Kittima",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -1.0
+            },
+            {
+              "jersey": "21",
+              "name": "BUABAN Thanawadee",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 6.25
+            },
+            {
+              "jersey": "23",
+              "name": "KHACHONRIT Thitirat",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "24",
+              "name": "RATTANAPIROM Natthida",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 4,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 4,
+                  "a": 4
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 5.0
+            },
+            {
+              "jersey": "27",
+              "name": "SEETHONG Pimpatcha",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 1,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "28",
+              "name": "BUNRUENG Rotsukhon",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 3,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 3,
+                  "a": 3
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 3.0
+            },
+            {
+              "jersey": "55",
+              "name": "KHROPBUABAN Natthawan",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": -2.25
+            },
+            {
+              "jersey": "77",
+              "name": "SRIHARAJ Patratawee",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "94",
+              "name": "PHOOMISATAN Thitiporn",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "99",
+              "name": "YODKHUM Anchalika",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 15,
+              "a": 17
+            },
+            "areas": {
+              "9m": {
+                "g": 1,
+                "a": 2
+              },
+              "6m": {
+                "g": 4,
+                "a": 4
+              },
+              "Wng": {
+                "g": 8,
+                "a": 8
+              },
+              "7m": {
+                "g": 2,
+                "a": 2
+              },
+              "FB": {
+                "g": 0,
+                "a": 0
+              },
+              "Brk": {
+                "g": 0,
+                "a": 1
+              }
+            },
+            "as": 2,
+            "e7": 0,
+            "tr": 6,
+            "st": 1,
+            "2m": 2
+          },
+          "goalkeepers": [
+            {
+              "jersey": "21",
+              "name": "BUABAN Thanawadee",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "s": 9,
+                "sh": 32
+              },
+              "areas": {
+                "9m": {
+                  "s": 2,
+                  "sh": 10
+                },
+                "6m": {
+                  "s": 1,
+                  "sh": 6
+                },
+                "Wng": {
+                  "s": 2,
+                  "sh": 8
+                },
+                "7m": {
+                  "s": 1,
+                  "sh": 2
+                },
+                "FB": {
+                  "s": 3,
+                  "sh": 6
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 6.25
+            },
+            {
+              "jersey": "77",
+              "name": "SRIHARAJ Patratawee",
+              "team": "Thailand",
+              "opponent": "Iran",
+              "tot": {
+                "s": 0,
+                "sh": 0
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 0.0
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 9,
+              "sh": 32
+            },
+            "areas": {
+              "9m": {
+                "s": 2,
+                "sh": 10
+              },
+              "6m": {
+                "s": 1,
+                "sh": 6
+              },
+              "Wng": {
+                "s": 2,
+                "sh": 8
+              },
+              "7m": {
+                "s": 1,
+                "sh": 2
+              },
+              "FB": {
+                "s": 3,
+                "sh": 6
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 0
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 9,
+              "sh": 32
+            },
+            "areas": {
+              "9m": {
+                "s": 2,
+                "sh": 10
+              },
+              "6m": {
+                "s": 1,
+                "sh": 6
+              },
+              "Wng": {
+                "s": 2,
+                "sh": 8
+              },
+              "7m": {
+                "s": 1,
+                "sh": 2
+              },
+              "FB": {
+                "s": 3,
+                "sh": 6
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 0
+              }
+            }
+          }
+        }
+      },
+      "timeline": {
+        "status": "OK",
+        "message": "Parsed cleanly.",
+        "event_count": 38,
+        "final_a": 23,
+        "final_b": 15,
+        "buckets": [
+          {
+            "label": "0-5",
+            "a": 17,
+            "b": 3
+          },
+          {
+            "label": "5-10",
+            "a": 0,
+            "b": 6
+          },
+          {
+            "label": "10-15",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "15-20",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "20-25",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "25-30",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "30-35",
+            "a": 1,
+            "b": 1
+          },
+          {
+            "label": "35-40",
+            "a": 0,
+            "b": 1
+          },
+          {
+            "label": "40-45",
+            "a": 2,
+            "b": 1
+          },
+          {
+            "label": "45-50",
+            "a": 1,
+            "b": 2
+          },
+          {
+            "label": "50-55",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "55-60",
+            "a": 2,
+            "b": 1
+          }
+        ],
+        "unmatched": []
+      },
+      "validation": {
+        "status": "OK",
+        "error_count": 0,
+        "warning_count": 0,
+        "note_count": 0,
+        "checks": [
+          {
+            "id": 1,
+            "name": "Player/GK Sum vs TOTAL",
+            "status": "OK",
+            "details": "All players & GKs match PDF TOTAL",
+            "notes": []
+          },
+          {
+            "id": 2,
+            "name": "6-Area Sum vs Tot",
+            "status": "OK",
+            "details": "All 6-area sums verified",
+            "notes": []
+          },
+          {
+            "id": 3,
+            "name": "Team TOTAL Goals vs Match Score",
+            "status": "OK",
+            "details": "Iran 23 == 23, Thailand 15 == 15",
+            "notes": []
+          },
+          {
+            "id": 4,
+            "name": "GK Conceded vs Opponent Score",
+            "status": "OK",
+            "details": "Iran GK 15==15, Thailand GK 23==23",
+            "notes": []
+          },
+          {
+            "id": 5,
+            "name": "Timeline Final Score vs Match Score",
+            "status": "OK",
+            "details": "Timeline 23-15 (38 goals) matches final score",
+            "notes": []
+          }
+        ],
+        "notes": []
+      }
+    },
+    {
+      "match_id": "261125_China-Hongkong",
+      "filename": "261125_China-Hongkong.pdf",
+      "file_mtime": 1795610094.008,
+      "meta": {
+        "tournament": "21st Asian Women's Handball Championship (2026)",
+        "round": "Preliminary Round - Group A, 3. round",
+        "date": "2026-11-25",
+        "date_display": "25.11.2026",
+        "time": "15:00",
+        "attendance": "",
+        "venue": "Olympic Training Centre (Almaty)",
+        "referees": "Jinsu Kwon / Doyong Kim",
+        "team_a": "Hong Kong - China",
+        "team_b": "China",
+        "score_a": 18,
+        "score_b": 34,
+        "half_score_1": "10 - 19",
+        "half_score_2": "8 - 15",
+        "half1_a": 10,
+        "half1_b": 19,
+        "half2_a": 8,
+        "half2_b": 15
+      },
+      "teams": {
+        "a": {
+          "slot": "a",
+          "team": "Hong Kong - China",
+          "opponent": "China",
+          "coach": "Tsz Yan Ko",
+          "score": 18,
+          "opponent_score": 34,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "CHEUNG Hoi Yan",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "2",
+              "name": "TAN Nim Chun",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "3",
+              "name": "LEUNG Wing Yin",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -1.5
+            },
+            {
+              "jersey": "5",
+              "name": "WONG Pui Tung",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 6,
+                "a": 10
+              },
+              "areas": {
+                "9m": {
+                  "g": 5,
+                  "a": 9
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 5.0
+            },
+            {
+              "jersey": "9",
+              "name": "LAM Cheuk Ki",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "10",
+              "name": "MAO Loi",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "11",
+              "name": "CHEUNG Man Shan",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "12",
+              "name": "HO Tsz Ching",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "16",
+              "name": "TSANG Yuen Lam",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 2,
+                  "a": 2
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "18",
+              "name": "CHONG Sze Ki",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 4,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 3,
+              "st": 0,
+              "2m": 0,
+              "val": -1.0
+            },
+            {
+              "jersey": "20",
+              "name": "WONG Lok Wing",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 1,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.75
+            },
+            {
+              "jersey": "23",
+              "name": "WONG Kit Wah",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 1,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "27",
+              "name": "KONG Yuk Ying",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": -2.0
+            },
+            {
+              "jersey": "67",
+              "name": "WONG Yui Ki",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 1,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "69",
+              "name": "SUEN Ho Yi",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -5.75
+            },
+            {
+              "jersey": "95",
+              "name": "TSANG Ka Yuk",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -1.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 18,
+              "a": 30
+            },
+            "areas": {
+              "9m": {
+                "g": 8,
+                "a": 18
+              },
+              "6m": {
+                "g": 2,
+                "a": 2
+              },
+              "Wng": {
+                "g": 1,
+                "a": 1
+              },
+              "7m": {
+                "g": 3,
+                "a": 4
+              },
+              "FB": {
+                "g": 0,
+                "a": 0
+              },
+              "Brk": {
+                "g": 4,
+                "a": 5
+              }
+            },
+            "as": 2,
+            "e7": 2,
+            "tr": 9,
+            "st": 0,
+            "2m": 0
+          },
+          "goalkeepers": [
+            {
+              "jersey": "69",
+              "name": "SUEN Ho Yi",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "s": 6,
+                "sh": 38
+              },
+              "areas": {
+                "9m": {
+                  "s": 1,
+                  "sh": 11
+                },
+                "6m": {
+                  "s": 2,
+                  "sh": 5
+                },
+                "Wng": {
+                  "s": 2,
+                  "sh": 5
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 9
+                },
+                "Brk": {
+                  "s": 1,
+                  "sh": 6
+                }
+              },
+              "val": -5.75
+            },
+            {
+              "jersey": "95",
+              "name": "TSANG Ka Yuk",
+              "team": "Hong Kong - China",
+              "opponent": "China",
+              "tot": {
+                "s": 0,
+                "sh": 2
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": -1.0
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 6,
+              "sh": 40
+            },
+            "areas": {
+              "9m": {
+                "s": 1,
+                "sh": 11
+              },
+              "6m": {
+                "s": 2,
+                "sh": 6
+              },
+              "Wng": {
+                "s": 2,
+                "sh": 5
+              },
+              "7m": {
+                "s": 0,
+                "sh": 1
+              },
+              "FB": {
+                "s": 0,
+                "sh": 10
+              },
+              "Brk": {
+                "s": 1,
+                "sh": 6
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 6,
+              "sh": 40
+            },
+            "areas": {
+              "9m": {
+                "s": 1,
+                "sh": 11
+              },
+              "6m": {
+                "s": 2,
+                "sh": 6
+              },
+              "Wng": {
+                "s": 2,
+                "sh": 5
+              },
+              "7m": {
+                "s": 0,
+                "sh": 1
+              },
+              "FB": {
+                "s": 0,
+                "sh": 10
+              },
+              "Brk": {
+                "s": 1,
+                "sh": 6
+              }
+            }
+          }
+        },
+        "b": {
+          "slot": "b",
+          "team": "China",
+          "opponent": "Hong Kong - China",
+          "coach": "Yongli Zheng",
+          "score": 34,
+          "opponent_score": 18,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "LU Chang",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "3",
+              "name": "PAN Fengying",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "8",
+              "name": "LIANG Jing",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 3,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 1,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.5
+            },
+            {
+              "jersey": "9",
+              "name": "ZHANG Shuoyan",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 6,
+                "a": 7
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 4,
+                  "a": 4
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 4.0
+            },
+            {
+              "jersey": "10",
+              "name": "SHI Zihan",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 2,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 1,
+                  "a": 2
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.25
+            },
+            {
+              "jersey": "11",
+              "name": "LIU Chan",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "17",
+              "name": "ZHU Haiyun",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "21",
+              "name": "ZHANG Pingping",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 0,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.75
+            },
+            {
+              "jersey": "23",
+              "name": "ZHANG Jingwen",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 2,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 2
+                }
+              },
+              "as": 2,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.75
+            },
+            {
+              "jersey": "24",
+              "name": "QU Wenna",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 6,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 3,
+                  "a": 3
+                }
+              },
+              "as": 1,
+              "e7": 1,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 7.0
+            },
+            {
+              "jersey": "25",
+              "name": "HU Yunuo",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 2,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 6.0
+            },
+            {
+              "jersey": "26",
+              "name": "ZHANG Yi",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 3,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 2
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "27",
+              "name": "JIAO Ya",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 4,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.75
+            },
+            {
+              "jersey": "28",
+              "name": "LIU Xuedan",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "31",
+              "name": "ZHAO Xinyao",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 1,
+                  "a": 1
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 4.75
+            },
+            {
+              "jersey": "51",
+              "name": "WANG Yujia",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "g": 4,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": 3.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 34,
+              "a": 43
+            },
+            "areas": {
+              "9m": {
+                "g": 10,
+                "a": 12
+              },
+              "6m": {
+                "g": 4,
+                "a": 6
+              },
+              "Wng": {
+                "g": 3,
+                "a": 7
+              },
+              "7m": {
+                "g": 1,
+                "a": 1
+              },
+              "FB": {
+                "g": 10,
+                "a": 10
+              },
+              "Brk": {
+                "g": 5,
+                "a": 6
+              }
+            },
+            "as": 7,
+            "e7": 1,
+            "tr": 2,
+            "st": 1,
+            "2m": 1
+          },
+          "goalkeepers": [
+            {
+              "jersey": "1",
+              "name": "LU Chang",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "s": 0,
+                "sh": 0
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 0.0
+            },
+            {
+              "jersey": "25",
+              "name": "HU Yunuo",
+              "team": "China",
+              "opponent": "Hong Kong - China",
+              "tot": {
+                "s": 10,
+                "sh": 28
+              },
+              "areas": {
+                "9m": {
+                  "s": 8,
+                  "sh": 16
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "7m": {
+                  "s": 1,
+                  "sh": 4
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 1,
+                  "sh": 5
+                }
+              },
+              "val": 6.0
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 10,
+              "sh": 28
+            },
+            "areas": {
+              "9m": {
+                "s": 8,
+                "sh": 16
+              },
+              "6m": {
+                "s": 0,
+                "sh": 2
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 1
+              },
+              "7m": {
+                "s": 1,
+                "sh": 4
+              },
+              "FB": {
+                "s": 0,
+                "sh": 0
+              },
+              "Brk": {
+                "s": 1,
+                "sh": 5
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 10,
+              "sh": 28
+            },
+            "areas": {
+              "9m": {
+                "s": 8,
+                "sh": 16
+              },
+              "6m": {
+                "s": 0,
+                "sh": 2
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 1
+              },
+              "7m": {
+                "s": 1,
+                "sh": 4
+              },
+              "FB": {
+                "s": 0,
+                "sh": 0
+              },
+              "Brk": {
+                "s": 1,
+                "sh": 5
+              }
+            }
+          }
+        }
+      },
+      "timeline": {
+        "status": "OK",
+        "message": "Parsed cleanly.",
+        "event_count": 52,
+        "final_a": 18,
+        "final_b": 34,
+        "buckets": [
+          {
+            "label": "0-5",
+            "a": 2,
+            "b": 3
+          },
+          {
+            "label": "5-10",
+            "a": 2,
+            "b": 3
+          },
+          {
+            "label": "10-15",
+            "a": 0,
+            "b": 3
+          },
+          {
+            "label": "15-20",
+            "a": 4,
+            "b": 8
+          },
+          {
+            "label": "20-25",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "25-30",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "30-35",
+            "a": 1,
+            "b": 2
+          },
+          {
+            "label": "35-40",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "40-45",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "45-50",
+            "a": 0,
+            "b": 4
+          },
+          {
+            "label": "50-55",
+            "a": 2,
+            "b": 4
+          },
+          {
+            "label": "55-60",
+            "a": 3,
+            "b": 3
+          }
+        ],
+        "unmatched": []
+      },
+      "validation": {
+        "status": "OK",
+        "error_count": 0,
+        "warning_count": 0,
+        "note_count": 2,
+        "checks": [
+          {
+            "id": 1,
+            "name": "Player/GK Sum vs TOTAL",
+            "status": "OK",
+            "details": "All players & GKs match PDF TOTAL",
+            "notes": []
+          },
+          {
+            "id": 2,
+            "name": "6-Area Sum vs Tot",
+            "status": "OK",
+            "details": "All 6-area sums verified (2 uncategorized/Empty-Goal shot note(s) in PDF)",
+            "notes": [
+              "Hong Kong - China GK #69 SUEN Ho Yi: Tot 6/38 vs 6-area sum 6/37 (+0/1 uncategorized shot in PDF)",
+              "China #26 ZHANG Yi: Tot 3/6 vs 6-area sum 2/5 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)"
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Team TOTAL Goals vs Match Score",
+            "status": "OK",
+            "details": "Hong Kong - China 18 == 18, China 34 == 34",
+            "notes": []
+          },
+          {
+            "id": 4,
+            "name": "GK Conceded vs Opponent Score",
+            "status": "OK",
+            "details": "Hong Kong - China GK 34==34, China GK 18==18",
+            "notes": []
+          },
+          {
+            "id": 5,
+            "name": "Timeline Final Score vs Match Score",
+            "status": "OK",
+            "details": "Timeline 18-34 (52 goals) matches final score",
+            "notes": []
+          }
+        ],
+        "notes": [
+          "Hong Kong - China GK #69 SUEN Ho Yi: Tot 6/38 vs 6-area sum 6/37 (+0/1 uncategorized shot in PDF)",
+          "China #26 ZHANG Yi: Tot 3/6 vs 6-area sum 2/5 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)"
+        ]
       }
     }
   ],
