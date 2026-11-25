@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T12:59:23+05:00",
+  "generated_at": "2026-11-25T14:36:57+05:00",
   "tournament_name": "21st Asian Women's Handball Championship (2026)",
   "default_team": "Japan",
   "pdf_source": "26AC_Official-Stats",
   "summary": {
-    "total_pdfs": 8,
-    "parsed_matches": 8,
-    "ok_matches": 8,
+    "total_pdfs": 9,
+    "parsed_matches": 9,
+    "ok_matches": 9,
     "warning_matches": 0,
     "error_matches": 0,
     "teams": [
@@ -15026,6 +15026,1842 @@
           "Iran #1 YARMOHAMMADTOUSKI Elnsaz: Tot 1/1 vs 6-area sum 0/0 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)",
           "Iran GK #1 YARMOHAMMADTOUSKI Elnsaz: Tot 9/35 vs 6-area sum 8/31 (+1/4 uncategorized shot in PDF)"
         ]
+      }
+    },
+    {
+      "match_id": "261125_India-Australia",
+      "filename": "261125_India-Australia.pdf",
+      "file_mtime": 1795599374.365,
+      "meta": {
+        "tournament": "21st Asian Women's Handball Championship (2026)",
+        "round": "Preliminary Round - Group B, 3. round",
+        "date": "2026-11-25",
+        "date_display": "25.11.2026",
+        "time": "11:00",
+        "attendance": "200",
+        "venue": "Olympic Training Centre (Almaty)",
+        "referees": "Qi Li / Yishan Lu",
+        "team_a": "Australia",
+        "team_b": "India",
+        "score_a": 19,
+        "score_b": 28,
+        "half_score_1": "10 - 14",
+        "half_score_2": "9 - 14",
+        "half1_a": 10,
+        "half1_b": 14,
+        "half2_a": 9,
+        "half2_b": 14
+      },
+      "teams": {
+        "a": {
+          "slot": "a",
+          "team": "Australia",
+          "opponent": "India",
+          "coach": "Eoin Murray",
+          "score": 19,
+          "opponent_score": 28,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "HARBORT Jemima",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 3,
+              "2m": 0,
+              "val": 10.0
+            },
+            {
+              "jersey": "3",
+              "name": "BERNABEI Greta",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 4,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 5
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "5",
+              "name": "FALLAH Jessica",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 4,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 3,
+              "st": 0,
+              "2m": 0,
+              "val": -1.25
+            },
+            {
+              "jersey": "8",
+              "name": "BUCKETT Gemma",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 2.5
+            },
+            {
+              "jersey": "10",
+              "name": "HAUGEN Hannah Linnea Parsons",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 3,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 5
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.25
+            },
+            {
+              "jersey": "17",
+              "name": "WAN Trudy",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "19",
+              "name": "THOMAS Amy",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 1.75
+            },
+            {
+              "jersey": "21",
+              "name": "LIVINGSTONE Manon",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -1.0
+            },
+            {
+              "jersey": "25",
+              "name": "BROBY Alinta",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 4,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "FB": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 1,
+              "val": 3.25
+            },
+            {
+              "jersey": "27",
+              "name": "MILLS Abby",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.5
+            },
+            {
+              "jersey": "45",
+              "name": "WONG Sau Hong",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 2,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 1,
+              "val": -0.25
+            },
+            {
+              "jersey": "52",
+              "name": "GILLESPIE Elisabeth",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "72",
+              "name": "JENKINS Alanah",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -1.0
+            },
+            {
+              "jersey": "73",
+              "name": "SKJAERET Ane",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 1,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.25
+            },
+            {
+              "jersey": "91",
+              "name": "GILLESPIE Finlayson",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "99",
+              "name": "ZINONOS Orthodoxia",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "g": 1,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 19,
+              "a": 32
+            },
+            "areas": {
+              "9m": {
+                "g": 13,
+                "a": 23
+              },
+              "6m": {
+                "g": 1,
+                "a": 2
+              },
+              "Wng": {
+                "g": 0,
+                "a": 0
+              },
+              "7m": {
+                "g": 2,
+                "a": 3
+              },
+              "FB": {
+                "g": 3,
+                "a": 4
+              },
+              "Brk": {
+                "g": 0,
+                "a": 0
+              }
+            },
+            "as": 1,
+            "e7": 3,
+            "tr": 5,
+            "st": 6,
+            "2m": 2
+          },
+          "goalkeepers": [
+            {
+              "jersey": "1",
+              "name": "HARBORT Jemima",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "s": 12,
+                "sh": 32
+              },
+              "areas": {
+                "9m": {
+                  "s": 10,
+                  "sh": 21
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 2,
+                  "sh": 4
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 3
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 3
+                }
+              },
+              "val": 10.0
+            },
+            {
+              "jersey": "19",
+              "name": "THOMAS Amy",
+              "team": "Australia",
+              "opponent": "India",
+              "tot": {
+                "s": 4,
+                "sh": 12
+              },
+              "areas": {
+                "9m": {
+                  "s": 3,
+                  "sh": 9
+                },
+                "6m": {
+                  "s": 1,
+                  "sh": 1
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 1.75
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 16,
+              "sh": 44
+            },
+            "areas": {
+              "9m": {
+                "s": 13,
+                "sh": 30
+              },
+              "6m": {
+                "s": 1,
+                "sh": 2
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 2,
+                "sh": 6
+              },
+              "FB": {
+                "s": 0,
+                "sh": 3
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 3
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 16,
+              "sh": 44
+            },
+            "areas": {
+              "9m": {
+                "s": 13,
+                "sh": 30
+              },
+              "6m": {
+                "s": 1,
+                "sh": 2
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 2,
+                "sh": 6
+              },
+              "FB": {
+                "s": 0,
+                "sh": 3
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 3
+              }
+            }
+          }
+        },
+        "b": {
+          "slot": "b",
+          "team": "India",
+          "opponent": "Australia",
+          "coach": "Sachin Chaudhary",
+          "score": 28,
+          "opponent_score": 19,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "POOJA Srinivasa",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "3",
+              "name": "BHAWANA Bhawana",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 13,
+                "a": 18
+              },
+              "areas": {
+                "9m": {
+                  "g": 5,
+                  "a": 7
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 4,
+                  "a": 6
+                },
+                "FB": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Brk": {
+                  "g": 2,
+                  "a": 2
+                }
+              },
+              "as": 2,
+              "e7": 2,
+              "tr": 1,
+              "st": 2,
+              "2m": 0,
+              "val": 11.25
+            },
+            {
+              "jersey": "4",
+              "name": "DEVI Jagriti",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 1,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 0.5
+            },
+            {
+              "jersey": "5",
+              "name": "SUJATA Sujata",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 1,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 1,
+              "val": 3.0
+            },
+            {
+              "jersey": "6",
+              "name": "SINGH Samriddhi",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "7",
+              "name": "SHARMA Mitali",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": -1.0
+            },
+            {
+              "jersey": "8",
+              "name": "DEVI Shivani",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 4,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 8
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 1.5
+            },
+            {
+              "jersey": "9",
+              "name": "THAKUR Priyanka",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 4,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 4,
+                  "a": 6
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 4.0
+            },
+            {
+              "jersey": "10",
+              "name": "THAKUR Shalini",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 1,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.5
+            },
+            {
+              "jersey": "11",
+              "name": "SHARMA Gulshan",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 1.0
+            },
+            {
+              "jersey": "12",
+              "name": "KUMARI Diksha",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 2.5
+            },
+            {
+              "jersey": "15",
+              "name": "SURKSHA Surksha",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 1,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -0.5
+            },
+            {
+              "jersey": "17",
+              "name": "ANNU Annu",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "21",
+              "name": "THAKUR Kritika",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.25
+            },
+            {
+              "jersey": "24",
+              "name": "TRIPATHI Aradhana",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "25",
+              "name": "TEENA Teena",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 28,
+              "a": 45
+            },
+            "areas": {
+              "9m": {
+                "g": 17,
+                "a": 31
+              },
+              "6m": {
+                "g": 1,
+                "a": 2
+              },
+              "Wng": {
+                "g": 0,
+                "a": 0
+              },
+              "7m": {
+                "g": 4,
+                "a": 6
+              },
+              "FB": {
+                "g": 3,
+                "a": 3
+              },
+              "Brk": {
+                "g": 3,
+                "a": 3
+              }
+            },
+            "as": 3,
+            "e7": 6,
+            "tr": 7,
+            "st": 3,
+            "2m": 1
+          },
+          "goalkeepers": [
+            {
+              "jersey": "12",
+              "name": "KUMARI Diksha",
+              "team": "India",
+              "opponent": "Australia",
+              "tot": {
+                "s": 7,
+                "sh": 26
+              },
+              "areas": {
+                "9m": {
+                  "s": 5,
+                  "sh": 18
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 1,
+                  "sh": 3
+                },
+                "FB": {
+                  "s": 1,
+                  "sh": 4
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 2.5
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 7,
+              "sh": 26
+            },
+            "areas": {
+              "9m": {
+                "s": 5,
+                "sh": 18
+              },
+              "6m": {
+                "s": 0,
+                "sh": 1
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 1,
+                "sh": 3
+              },
+              "FB": {
+                "s": 1,
+                "sh": 4
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 0
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 7,
+              "sh": 26
+            },
+            "areas": {
+              "9m": {
+                "s": 5,
+                "sh": 18
+              },
+              "6m": {
+                "s": 0,
+                "sh": 1
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 1,
+                "sh": 3
+              },
+              "FB": {
+                "s": 1,
+                "sh": 4
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 0
+              }
+            }
+          }
+        }
+      },
+      "timeline": {
+        "status": "OK",
+        "message": "Parsed cleanly.",
+        "event_count": 47,
+        "final_a": 19,
+        "final_b": 28,
+        "buckets": [
+          {
+            "label": "0-5",
+            "a": 0,
+            "b": 2
+          },
+          {
+            "label": "5-10",
+            "a": 2,
+            "b": 3
+          },
+          {
+            "label": "10-15",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "15-20",
+            "a": 2,
+            "b": 1
+          },
+          {
+            "label": "20-25",
+            "a": 2,
+            "b": 4
+          },
+          {
+            "label": "25-30",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "30-35",
+            "a": 3,
+            "b": 2
+          },
+          {
+            "label": "35-40",
+            "a": 2,
+            "b": 4
+          },
+          {
+            "label": "40-45",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "45-50",
+            "a": 1,
+            "b": 2
+          },
+          {
+            "label": "50-55",
+            "a": 1,
+            "b": 2
+          },
+          {
+            "label": "55-60",
+            "a": 2,
+            "b": 4
+          }
+        ],
+        "unmatched": []
+      },
+      "validation": {
+        "status": "OK",
+        "error_count": 0,
+        "warning_count": 0,
+        "note_count": 0,
+        "checks": [
+          {
+            "id": 1,
+            "name": "Player/GK Sum vs TOTAL",
+            "status": "OK",
+            "details": "All players & GKs match PDF TOTAL",
+            "notes": []
+          },
+          {
+            "id": 2,
+            "name": "6-Area Sum vs Tot",
+            "status": "OK",
+            "details": "All 6-area sums verified",
+            "notes": []
+          },
+          {
+            "id": 3,
+            "name": "Team TOTAL Goals vs Match Score",
+            "status": "OK",
+            "details": "Australia 19 == 19, India 28 == 28",
+            "notes": []
+          },
+          {
+            "id": 4,
+            "name": "GK Conceded vs Opponent Score",
+            "status": "OK",
+            "details": "Australia GK 28==28, India GK 19==19",
+            "notes": []
+          },
+          {
+            "id": 5,
+            "name": "Timeline Final Score vs Match Score",
+            "status": "OK",
+            "details": "Timeline 19-28 (47 goals) matches final score",
+            "notes": []
+          }
+        ],
+        "notes": []
       }
     }
   ],
