@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T19:50:59+05:00",
+  "generated_at": "2026-11-25T20:06:51+05:00",
   "tournament_name": "21st Asian Women's Handball Championship (2026)",
   "default_team": "Japan",
   "pdf_source": "26AC_Official-Stats",
   "summary": {
-    "total_pdfs": 11,
-    "parsed_matches": 11,
-    "ok_matches": 11,
+    "total_pdfs": 12,
+    "parsed_matches": 12,
+    "ok_matches": 12,
     "warning_matches": 0,
     "error_matches": 0,
     "teams": [
@@ -20651,6 +20651,1953 @@
           "Hong Kong - China GK #69 SUEN Ho Yi: Tot 6/38 vs 6-area sum 6/37 (+0/1 uncategorized shot in PDF)",
           "China #26 ZHANG Yi: Tot 3/6 vs 6-area sum 2/5 (+1/1 uncategorized shot in PDF, e.g. Empty Goal / direct throw)"
         ]
+      }
+    },
+    {
+      "match_id": "261125_Kazakhstan-Uzbekistan",
+      "filename": "261125_Kazakhstan-Uzbekistan.pdf",
+      "file_mtime": 1795618221.57,
+      "meta": {
+        "tournament": "21st Asian Women's Handball Championship (2026)",
+        "round": "Preliminary Round - Group B, 3. round",
+        "date": "2026-11-25",
+        "date_display": "25.11.2026",
+        "time": "17:00",
+        "attendance": "500",
+        "venue": "Olympic Training Centre (Almaty)",
+        "referees": "Khamis Al Wahibi / Omar Al Shehi",
+        "team_a": "Kazakhstan",
+        "team_b": "Uzbekistan",
+        "score_a": 32,
+        "score_b": 29,
+        "half_score_1": "16 - 14",
+        "half_score_2": "16 - 15",
+        "half1_a": 16,
+        "half1_b": 14,
+        "half2_a": 16,
+        "half2_b": 15
+      },
+      "teams": {
+        "a": {
+          "slot": "a",
+          "team": "Kazakhstan",
+          "opponent": "Uzbekistan",
+          "coach": "Marina Pikalova",
+          "score": 32,
+          "opponent_score": 29,
+          "players": [
+            {
+              "jersey": "1",
+              "name": "ZHAPAROVA Damira",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": -0.75
+            },
+            {
+              "jersey": "3",
+              "name": "SITNIKOVA Mariya",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 3,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 4.0
+            },
+            {
+              "jersey": "5",
+              "name": "TURSYN Aiym",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "7",
+              "name": "ZHAPAROVA Aida",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 7,
+                "a": 10
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 3,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 3,
+                  "a": 3
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 1,
+              "st": 2,
+              "2m": 1,
+              "val": 4.5
+            },
+            {
+              "jersey": "8",
+              "name": "SABYRZHANKYZY Nazym",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "10",
+              "name": "RADAYEVA Kristina",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 1,
+                "a": 1
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": -0.5
+            },
+            {
+              "jersey": "11",
+              "name": "ZVYAGINA Zlata",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 1,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 2,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "12",
+              "name": "AITENOVA Zhannat",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 3.25
+            },
+            {
+              "jersey": "14",
+              "name": "ABDIKHAMIT Arailym",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 2,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "15",
+              "name": "KHASSAKHANOVA Irina",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 5,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 3,
+                  "a": 6
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 1,
+              "e7": 1,
+              "tr": 2,
+              "st": 2,
+              "2m": 0,
+              "val": 4.25
+            },
+            {
+              "jersey": "22",
+              "name": "MYRZAMSEIITOVA Madina",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "23",
+              "name": "GALYM Kyzzhibek",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.5
+            },
+            {
+              "jersey": "55",
+              "name": "STEPANOVA Kristina",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 2,
+                "a": 2
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": 0.5
+            },
+            {
+              "jersey": "72",
+              "name": "KUANDYKOVA Zhanerke",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 10,
+                "a": 12
+              },
+              "areas": {
+                "9m": {
+                  "g": 3,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 5,
+                  "a": 6
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 1,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 8.0
+            },
+            {
+              "jersey": "77",
+              "name": "FRANKOVSKAYA Yana",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "96",
+              "name": "ABILDA Dana",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "g": 3,
+                "a": 3
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 2,
+                  "a": 2
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 2,
+              "e7": 0,
+              "tr": 1,
+              "st": 1,
+              "2m": 0,
+              "val": 5.0
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 32,
+              "a": 45
+            },
+            "areas": {
+              "9m": {
+                "g": 10,
+                "a": 18
+              },
+              "6m": {
+                "g": 12,
+                "a": 16
+              },
+              "Wng": {
+                "g": 0,
+                "a": 0
+              },
+              "7m": {
+                "g": 8,
+                "a": 9
+              },
+              "FB": {
+                "g": 0,
+                "a": 0
+              },
+              "Brk": {
+                "g": 2,
+                "a": 2
+              }
+            },
+            "as": 5,
+            "e7": 9,
+            "tr": 8,
+            "st": 7,
+            "2m": 1
+          },
+          "goalkeepers": [
+            {
+              "jersey": "1",
+              "name": "ZHAPAROVA Damira",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "s": 3,
+                "sh": 14
+              },
+              "areas": {
+                "9m": {
+                  "s": 3,
+                  "sh": 7
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 2
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 3
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 1
+                }
+              },
+              "val": -0.75
+            },
+            {
+              "jersey": "12",
+              "name": "AITENOVA Zhannat",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "s": 8,
+                "sh": 25
+              },
+              "areas": {
+                "9m": {
+                  "s": 7,
+                  "sh": 17
+                },
+                "6m": {
+                  "s": 1,
+                  "sh": 2
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 3
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 2
+                }
+              },
+              "val": 3.25
+            },
+            {
+              "jersey": "23",
+              "name": "GALYM Kyzzhibek",
+              "team": "Kazakhstan",
+              "opponent": "Uzbekistan",
+              "tot": {
+                "s": 0,
+                "sh": 1
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 1
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": -0.5
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 11,
+              "sh": 40
+            },
+            "areas": {
+              "9m": {
+                "s": 10,
+                "sh": 24
+              },
+              "6m": {
+                "s": 1,
+                "sh": 3
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 0,
+                "sh": 6
+              },
+              "FB": {
+                "s": 0,
+                "sh": 4
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 3
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 11,
+              "sh": 40
+            },
+            "areas": {
+              "9m": {
+                "s": 10,
+                "sh": 24
+              },
+              "6m": {
+                "s": 1,
+                "sh": 3
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 0,
+                "sh": 6
+              },
+              "FB": {
+                "s": 0,
+                "sh": 4
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 3
+              }
+            }
+          }
+        },
+        "b": {
+          "slot": "b",
+          "team": "Uzbekistan",
+          "opponent": "Kazakhstan",
+          "coach": "Zinaida Penkova",
+          "score": 29,
+          "opponent_score": 32,
+          "players": [
+            {
+              "jersey": "2",
+              "name": "PIRJANOVA Uljamal",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "5",
+              "name": "KELDIYOROVA Shalola",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 4
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": -3.0
+            },
+            {
+              "jersey": "6",
+              "name": "SOLIEVA Maftuna",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "7",
+              "name": "TURGUNOVA Naimakhon",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "8",
+              "name": "MAJIDOVA Dildora",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "9",
+              "name": "RUZIEVA Rukhshona",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 6,
+                "a": 6
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 6,
+                  "a": 6
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 2,
+              "e7": 0,
+              "tr": 0,
+              "st": 1,
+              "2m": 0,
+              "val": 4.5
+            },
+            {
+              "jersey": "10",
+              "name": "SULTANOVA Dilnoza",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 3,
+                "a": 5
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 3,
+              "e7": 2,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": 4.5
+            },
+            {
+              "jersey": "11",
+              "name": "ERKABOEVA Zuhra",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": -0.75
+            },
+            {
+              "jersey": "12",
+              "name": "MAMIROVA Turoyim",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 2,
+              "2m": 0,
+              "val": -1.5
+            },
+            {
+              "jersey": "13",
+              "name": "BAYJANOVA Ilmira",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "14",
+              "name": "SAFAROVA Khusniya",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 3,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 1,
+              "e7": 1,
+              "tr": 0,
+              "st": 1,
+              "2m": 2,
+              "val": 1.75
+            },
+            {
+              "jersey": "15",
+              "name": "KHUDOYAROVA Anastasiya",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 3,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 1,
+                  "a": 1
+                },
+                "6m": {
+                  "g": 2,
+                  "a": 3
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 1,
+              "st": 1,
+              "2m": 1,
+              "val": -1.0
+            },
+            {
+              "jersey": "16",
+              "name": "YUSUFOVA Nilufar",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 0,
+                "a": 0
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 0,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 0.0
+            },
+            {
+              "jersey": "17",
+              "name": "BAHROMOVA Dilbarhon",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 2,
+                "a": 4
+              },
+              "areas": {
+                "9m": {
+                  "g": 0,
+                  "a": 2
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 2,
+              "e7": 0,
+              "tr": 1,
+              "st": 0,
+              "2m": 0,
+              "val": 2.0
+            },
+            {
+              "jersey": "19",
+              "name": "SAPARBAEVA Sarbinaz",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 6,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 4,
+                  "a": 7
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 1,
+                  "a": 1
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 2,
+              "st": 0,
+              "2m": 0,
+              "val": 3.5
+            },
+            {
+              "jersey": "21",
+              "name": "POPOVICH Anna",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "g": 6,
+                "a": 9
+              },
+              "areas": {
+                "9m": {
+                  "g": 5,
+                  "a": 7
+                },
+                "6m": {
+                  "g": 0,
+                  "a": 1
+                },
+                "Wng": {
+                  "g": 0,
+                  "a": 0
+                },
+                "7m": {
+                  "g": 0,
+                  "a": 0
+                },
+                "FB": {
+                  "g": 1,
+                  "a": 1
+                },
+                "Brk": {
+                  "g": 0,
+                  "a": 0
+                }
+              },
+              "as": 0,
+              "e7": 1,
+              "tr": 0,
+              "st": 0,
+              "2m": 0,
+              "val": 4.25
+            }
+          ],
+          "bench": {
+            "as": 0,
+            "e7": 0,
+            "tr": 0,
+            "st": 0,
+            "2m": 0
+          },
+          "player_total": {
+            "tot": {
+              "g": 29,
+              "a": 45
+            },
+            "areas": {
+              "9m": {
+                "g": 14,
+                "a": 27
+              },
+              "6m": {
+                "g": 2,
+                "a": 5
+              },
+              "Wng": {
+                "g": 0,
+                "a": 0
+              },
+              "7m": {
+                "g": 6,
+                "a": 6
+              },
+              "FB": {
+                "g": 4,
+                "a": 4
+              },
+              "Brk": {
+                "g": 3,
+                "a": 3
+              }
+            },
+            "as": 8,
+            "e7": 6,
+            "tr": 8,
+            "st": 5,
+            "2m": 3
+          },
+          "goalkeepers": [
+            {
+              "jersey": "9",
+              "name": "RUZIEVA Rukhshona",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "s": 0,
+                "sh": 0
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 4.5
+            },
+            {
+              "jersey": "12",
+              "name": "MAMIROVA Turoyim",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "s": 8,
+                "sh": 40
+              },
+              "areas": {
+                "9m": {
+                  "s": 5,
+                  "sh": 15
+                },
+                "6m": {
+                  "s": 2,
+                  "sh": 14
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 1,
+                  "sh": 9
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 2
+                }
+              },
+              "val": -1.5
+            },
+            {
+              "jersey": "16",
+              "name": "YUSUFOVA Nilufar",
+              "team": "Uzbekistan",
+              "opponent": "Kazakhstan",
+              "tot": {
+                "s": 0,
+                "sh": 0
+              },
+              "areas": {
+                "9m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "6m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Wng": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "7m": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "FB": {
+                  "s": 0,
+                  "sh": 0
+                },
+                "Brk": {
+                  "s": 0,
+                  "sh": 0
+                }
+              },
+              "val": 0.0
+            }
+          ],
+          "gk_total": {
+            "tot": {
+              "s": 8,
+              "sh": 40
+            },
+            "areas": {
+              "9m": {
+                "s": 5,
+                "sh": 15
+              },
+              "6m": {
+                "s": 2,
+                "sh": 14
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 1,
+                "sh": 9
+              },
+              "FB": {
+                "s": 0,
+                "sh": 0
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 2
+              }
+            }
+          },
+          "gk_pdf_total": {
+            "tot": {
+              "s": 8,
+              "sh": 40
+            },
+            "areas": {
+              "9m": {
+                "s": 5,
+                "sh": 15
+              },
+              "6m": {
+                "s": 2,
+                "sh": 14
+              },
+              "Wng": {
+                "s": 0,
+                "sh": 0
+              },
+              "7m": {
+                "s": 1,
+                "sh": 9
+              },
+              "FB": {
+                "s": 0,
+                "sh": 0
+              },
+              "Brk": {
+                "s": 0,
+                "sh": 2
+              }
+            }
+          }
+        }
+      },
+      "timeline": {
+        "status": "OK",
+        "message": "Parsed cleanly.",
+        "event_count": 61,
+        "final_a": 32,
+        "final_b": 29,
+        "buckets": [
+          {
+            "label": "0-5",
+            "a": 3,
+            "b": 3
+          },
+          {
+            "label": "5-10",
+            "a": 2,
+            "b": 3
+          },
+          {
+            "label": "10-15",
+            "a": 2,
+            "b": 0
+          },
+          {
+            "label": "15-20",
+            "a": 6,
+            "b": 5
+          },
+          {
+            "label": "20-25",
+            "a": 0,
+            "b": 0
+          },
+          {
+            "label": "25-30",
+            "a": 3,
+            "b": 3
+          },
+          {
+            "label": "30-35",
+            "a": 1,
+            "b": 3
+          },
+          {
+            "label": "35-40",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "40-45",
+            "a": 2,
+            "b": 2
+          },
+          {
+            "label": "45-50",
+            "a": 3,
+            "b": 2
+          },
+          {
+            "label": "50-55",
+            "a": 4,
+            "b": 2
+          },
+          {
+            "label": "55-60",
+            "a": 4,
+            "b": 4
+          }
+        ],
+        "unmatched": []
+      },
+      "validation": {
+        "status": "OK",
+        "error_count": 0,
+        "warning_count": 0,
+        "note_count": 0,
+        "checks": [
+          {
+            "id": 1,
+            "name": "Player/GK Sum vs TOTAL",
+            "status": "OK",
+            "details": "All players & GKs match PDF TOTAL",
+            "notes": []
+          },
+          {
+            "id": 2,
+            "name": "6-Area Sum vs Tot",
+            "status": "OK",
+            "details": "All 6-area sums verified",
+            "notes": []
+          },
+          {
+            "id": 3,
+            "name": "Team TOTAL Goals vs Match Score",
+            "status": "OK",
+            "details": "Kazakhstan 32 == 32, Uzbekistan 29 == 29",
+            "notes": []
+          },
+          {
+            "id": 4,
+            "name": "GK Conceded vs Opponent Score",
+            "status": "OK",
+            "details": "Kazakhstan GK 29==29, Uzbekistan GK 32==32",
+            "notes": []
+          },
+          {
+            "id": 5,
+            "name": "Timeline Final Score vs Match Score",
+            "status": "OK",
+            "details": "Timeline 32-29 (61 goals) matches final score",
+            "notes": []
+          }
+        ],
+        "notes": []
       }
     }
   ],
